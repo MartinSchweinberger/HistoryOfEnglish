@@ -1,1 +1,965 @@
 # Middle English
+
+\section{Middle English}
+\begin{frame}
+\begin{center}
+\textsc{Middle English}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Norman Conquest in 1066}
+\begin{itemize}
+\item In September 1066, after Edward \\
+the Confessors death, the \\
+Norwegian king Harold Hardrada \\
+invaded northern England but \\
+was killed and defeated by Harold \\
+Godwinson, successor of Edward.
+\item Soon after Harold's victory, \\
+William the Conqueror landed in \\
+southern England\\
+\item Harold ordered only a fraction of his army to move south and was defeated by William in 1066 in Hastings.
+\begin{textblock*}{10cm}(8.5cm,1.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/Britain-in-1066.jpg}
+\end{textblock*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Rebellion after the Conquest}
+\begin{itemize}
+\item The southern English earls died in battle \\
+and were replaced by French nobility
+\item William intended to rule England like \\
+Canute had before him - leaving the \\
+structures in place and collecting \\
+the Danegeld (which had become a \\
+land-tax)
+\item The English nobles had to swear loyalty \\
+to William and vow to help him in \\
+military campaigns in Normandy where \\
+William's son Robert rebelled against him.
+\end{itemize}
+\begin{textblock*}{10cm}(9.5cm,1.5cm)
+\includegraphics[width=3.5cm]{D:/Uni/Lehre/images/normaninvasion.png}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Rebellion and Feudalism}
+\begin{itemize}
+\item The northern English nobility rebelled \\
+as the vikings whom they shared cultural \\
+and family ties with intended to return \\
+and defeat William.
+\item Also, English earls refuted to be involved \\
+in wars outside of England (people never \\
+fought for their king but for their land)
+\end{itemize}
+\begin{textblock*}{10cm}(9cm,1.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/feudalism.jpg}
+\end{textblock*}
+\begin{textblock*}{10cm}(9cm,4.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/normanchival.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Anglo-Saxon rule and Feudalism}
+\begin{itemize}
+\item Anglo-Saxon rule
+\begin{itemize}
+\item kings guaranteed the safety of land \\
+claims and from foreign armies
+\item earls provided safety and law for \\
+land owners
+\item land owners were obliged to work the \\
+land and pay a land tax to earls for \\
+their upholding of the law
+\end{itemize}
+\item William installed feudalism - absolute power of the monarch (the social order of the Anglo-Saxons was fully replaced)
+\end{itemize}
+\begin{textblock*}{10cm}(9cm,1.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/william2.jpg}
+\end{textblock*}
+\begin{textblock*}{10cm}(9cm,1.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/william.jpg}
+\end{textblock*}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{Rebellion after the Conquest}
+\begin{itemize}
+\item Due to troubles in Denmark, the \\
+vikings never returned and the northern \\
+earls were consequently disowned, \\
+replaced with loyal French barons, \\
+and their lands devastated
+\item The North's rebellion had dire \\
+consequences: 2,000 to 3,000 English earls were replaced with app. 200 French barons. Half of the northern population starved or was massacred.
+\item English would not have been so drastically influenced by French if the North had never rebelled
+\end{itemize}
+\begin{textblock*}{10cm}(9cm,1.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/rebelion3.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Rebellion after the Conquest}
+\begin{itemize}
+\item Not only nobility but also intellectuals \\
+had to be imported from France - \\
+causing massive influx of French \\
+speakers (particularly people holding \\
+power and peasants and serves had to \\
+adapt and adopt the language of the \\
+rulers) but also scribes and monks
+\item Due to the ubiquity of French speakers, \\
+French would permeate through all \\
+aspects of social life
+\end{itemize}
+\begin{textblock*}{10cm}(9cm,1.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/rebellion.jpg}
+\end{textblock*}
+\begin{textblock*}{10cm}(9cm,4.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/rebellion2.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Anarchy}
+\begin{itemize}
+\item After William's son, Henry I, died in \\
+1135, both his son and his daughter \\
+claimed the throne
+\item Civil war erupted and an\\
+erosion of public order - in fact\\
+the crown no longer secured basic \\
+safety and the barons were more or \\
+less kings that ruled over the lands \\
+surrounding their castles.
+\item This meant that cruelty and crime became rampant during the following years - a time which is now referred to as \textquote{The Anarchy}
+\end{itemize}
+\begin{textblock*}{10cm}(9cm,1.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/anarchy.jpg}
+\end{textblock*}
+\begin{textblock*}{10cm}(9cm,4.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/sexpistols.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Anarchy}
+\begin{scriptsize}
+They oppressed the wretched people of the country severely \\
+with castle-building. When the castles were built, they \\
+filled them with devils and wicked men. Then, both by night \\
+and day they took those people that they thought had any \\
+goods - men and women - and put them in prison and tortured \\
+them with indescribable torture to extort gold and silver - \\
+for no martyrs were ever so tortured as they were. They were hung by the thumbs or by the head, and corselets were hung on their feet. Knotted ropes were put round their heads and twisted till they penetrated to the brains. \\
+I have neither the ability nor the power to tell all the horrors nor all the torments they inflicted upon wretched people in this country; and that lasted the nineteen years while Stephen was king, and it was always going from bad to worse. They levied taxes on the villages every so often, and called it' 'protection money'. When the wretched people had no more to give, they robbed and burned the villages, so that you could easily go a whole day's journey and never find anyone occupying a village, nor land tilled. Then corn was dear, and meat and butter and cheese, because there was none in the country. Wretched people died of starvation; some lived by begging for alms, who had once been rich men; some fled the country. \\
+\hfill \texttt{http://www.eyewitnesstohistory.com/medievalengland.htm}
+\end{scriptsize}
+\begin{textblock*}{10cm}(9cm,1.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/anarchy.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{England under French rule}
+\begin{itemize}
+\item English went underground (official \\
+documents in Latin or French)
+\item Emergence of castles and \textquote{chivalry}
+\item Terms relating to governance, courts, \\
+military, and cuisine mainly French \\
+(e.g. \textit{parliament}, \textit{government}, \textit{minster},\\
+\textit{battalion}, \textit{soldier}, \textit{navy}, \textit{judge}, \\
+\textit{attorney}, \textit{court}, etc.)
+\item Products often French (\textit{beaf}, \textit{mutton}, \textit{poultry}, etc.) while the original animal (handled by English peasants) retained the Germanic term (\textit{cow}, \textit{lamb}, \textit{chicken}, etc.)
+\begin{textblock*}{10cm}(8.5cm,1.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/normaninvasion2.jpg}
+\end{textblock*}
+\begin{textblock*}{10cm}(8.5cm,4cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/frenchcousine.jpg}
+\end{textblock*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Unity of Nations}
+\begin{itemize}
+\item Edward I (1239-1307) aimed to create \\
+a united British empire and thus fought \\
+battles to subdue Wales and Scotland.
+\item As a reaction to small-scale rebellions \\
+in Wales, Edward launched a full-scale war \\
+of conquest which succeeded in 1283.
+\item When he aimed to subdue Scotland, he was \\
+met with stark resistance fueled by Scottish \\
+nationalism led be William Wallace.
+\item Although initially successful and \\
+extremely cruel, the war in Scotland \\
+ended under Edward II (1284-1327) with \\
+Scottish victory under Robert the Bruce.
+\end{itemize}
+\begin{textblock*}{10cm}(9.5cm,1.5cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/edwardi.jpg}
+\end{textblock*}
+\begin{textblock*}{10cm}(9.5cm,4cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/braveheart.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Unity of Nations}
+\begin{itemize}
+\item After Robert the Bruce, aka Robert I, \\
+King of Scotland, won against Edward II \\
+in Bannockburn in 1314, he send an army \\
+to invade Ireland by appealing to the \\
+native Irish to rise against Edward II's rule
+\item He aimed to create a \\
+\textit{Pan-Gaelic Greater Scotia} based \\
+on his mixed Irish and Scottish ancestry and started his campaign in the north and traveled south to invade Dublin.
+\end{itemize}
+\begin{textblock*}{10cm}(9.5cm,1.5cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/robertbruce.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Unity of Nations}
+\begin{itemize}
+\item A great famine (1315-1317) caused the \\
+Scottish army to raid the already starving \\
+native Irish population
+\item The Irish did not surrender but fought off Robert as he failed to win over the southern non-Ulster chiefs who saw no difference between Scottish or English rule and were impressed by the Scottish atrocities during the famine.
+\item The consequences of the Edward II and Robert 1 were a rising nationalism and focus not on unity of British people but separate cultural identities of Scotland, England, and Ireland.
+\end{itemize}
+\begin{textblock*}{10cm}(9.5cm,1.5cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/irishfamine1317.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{The Black Death}
+\begin{itemize}
+\item The \textquote{Great Pestilence} hit England \\
+in 1348 and reached its peak \\
+in 1349.
+\item Of a total population of 6 million, \\
+app. 3-4 million people died.
+\item Dramatic changes in social structure: \\
+rise of wages and labor thus \\
+became mobile.
+\item Beginning of urbanization: laborers settle in towns.
+\begin{textblock*}{10cm}(8.5cm,1.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/blackdeathengland.jpg}
+\end{textblock*}
+\begin{textblock*}{10cm}(8.5cm,4.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/blackdeathengland2.jpg}
+\end{textblock*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{The Black Death}
+\begin{itemize}
+\item Close-knit cmmunities (e.g. monks) \\
+suffered especially badly
+\item Clergy fled or died $\rightarrow$ shortage of \\
+Latin speakers $\rightarrow$ people who \\
+replaced the Latin-speaking clergy \\
+were English speakers $\rightarrow$ English \\
+re-emerged and was re-introduced \\
+into the parliament (1362), court, \\
+church, and schools
+\item Henry, Duke of Lancaster, became Henry IV - the first English-speaking king since the Norman Conquest
+\begin{textblock*}{10cm}(8.5cm,1.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/blackdeathengland.jpg}
+\end{textblock*}
+\begin{textblock*}{10cm}(8.5cm,4.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/blackdeathengland2.jpg}
+\end{textblock*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{The Black Death}
+\begin{itemize}
+\item The prize of land and property fell \\
+while the prize of labor rose: \\
+early middle class emerged $\rightarrow$ \\
+increased the demand for education \\
+and books (in English)
+\item The boom of the educational system \\
+led to great English speaking literary \\
+champion: Geoffrey Chaucer
+\begin{textblock*}{10cm}(8.5cm,1.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/chaucer.jpg}
+\end{textblock*}
+\begin{textblock*}{10cm}(8.5cm,5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/canterburytales2.jpg}
+\end{textblock*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Geoffrey Chaucer (1343-1400)}
+\begin{itemize}
+\item Chaucer was a well-educated \\
+Londoner with very strong ties to \\
+the court and administration
+\item Chaucer knew Latin and French but \\
+chose English when writing the \\
+famous \textit{Canterbury Tales}
+\item At the Tabard Inn, a tavern in \\
+Southwark, near London, the narrator \\
+joins a company of twenty-nine \\
+pilgrims. The pilgrims, like the \\
+narrator, are traveling to the shrine of the martyr Saint Thomas Becket in Canterbury.
+\begin{textblock*}{10cm}(8.5cm,1.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/chaucer.jpg}
+\end{textblock*}
+\begin{textblock*}{10cm}(8.5cm,1.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/canterburytales3.jpg}
+\end{textblock*}
+\begin{textblock*}{10cm}(8.5cm,6.2cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/canterburytales1.jpg}
+\end{textblock*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\begin{center}
+\includegraphics[width=4.5cm]{D:/Uni/Lehre/images/canterburytales3.jpg}
+\end{center}
+\begin{footnotesize}
+\texttt{https://www.youtube.com/watch?v=GihrWuysnrc, 0:00--1:45}
+\end{footnotesize}
+\end{frame}
+
+\begin{frame}
+\frametitle{The Peasant's Revolt of 1381}
+\begin{itemize}
+\item The crown issued a high tax due to \\
+the expenses of the 100-Years-War \\
+with France and due to declining \\
+tax incomes caused by the Plague
+\item The tax led to civil unrest and the \\
+peasants revolt (The Great Rising) \\
+across large parts of England in 1381.
+\item King Richard II (1367-1400) \\
+retreated to the safety of the Tower of London
+\item When the rebels entered London, Richard accepted their demands (abolition of serfdom) but the rebels still broke into the Tower (killing Lord Chancellor Simon Sudbury) causing Richard II to restore order and to kill 1,500 rebels
+\end{itemize}
+\begin{textblock*}{10cm}(8.5cm,1.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/peasantsrevolt.jpg}
+\end{textblock*}
+\begin{textblock*}{10cm}(8.5cm,4cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/peasantsrevolt2.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Religion and English}
+\begin{itemize}
+\item 14^{th} century England was highly \\
+religious.
+\item Catholicism permeated through every \\
+aspect of every-day life
+\item Before the Black Death, sermons and \\
+church services were held in Latin \\
+while outside of Churches, religious \\
+plays (Mystery plays, street theater) \\
+would inform the people about the contents of the Bible in English
+\item The battle for an English Bible initiated the end of the Middle Ages.
+\begin{textblock*}{10cm}(8.5cm,1.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/medievalreligion1.jpg}
+\end{textblock*}
+\begin{textblock*}{10cm}(8.5cm,4.25cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/medievalreligion2.jpg}
+\end{textblock*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Religion and English}
+\begin{itemize}
+\item John Wyclif (1330-1384)
+\item Similar to Luther, Wyclif propagated \\
+that the only religious authority \\
+is scripture itself
+\item Clergy was lazy and the majority \\
+could neither recite the ten \\
+commandments nor the Lord's Prayer
+\item A small pious group distributed a Bible translated into English aiming to overthrow the corrupt church-elite
+\begin{textblock*}{10cm}(9cm,1.5cm)
+\includegraphics[width=3.5cm]{D:/Uni/Lehre/images/Wycliffe.jpg}
+\end{textblock*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Religion and English}
+\begin{itemize}
+\item The translation was almost a \\
+word-to-word gloss thus retaining \\
+Latin word order and many Latin \\
+terms
+\item Wyclif trained a secret undercover \\
+clergy - the Lollards - that were \\
+send out into the country to teach \\
+the faith in English and spread an \\
+anti-clergy sentiment
+\begin{textblock*}{10cm}(8.5cm,1.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/FirstBible.jpg}
+\end{textblock*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Religion and English}
+\begin{itemize}
+\item The Lollards soon became a massive \\
+movement - some chroniclers claimed \\
+that every 2^{nd} person was a Lollard
+\item Henry V (1386-1422, son of Henry IV, \\
+1367-1413) fought campaigns in France during the 100-Years' War (1337–1453) and thus offered the Lollards peace to avoid civil war
+\item In fact, Henry V was probably sympathetic to the Lollards' cause, as he shared friendship with supporters of the Lollards, and issued all court documents to be written in English - thus ending the primacy of Latin as the written medium in England
+\begin{textblock*}{10cm}(8.5cm,1.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/lollards.jpg}
+\end{textblock*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Linguistic change in Middle English}
+\begin{itemize}
+\item Grammatical changes were not only primarily consequences of the Norman Conquest but continuations of processes that were ongoing since Old English period.
+\item Changes were uniform and written language changed substantially slower, e.g. in some manuscripts dating from the 12$^{th}$ century inflectional endings can still be found.
+\item Norman Conquest supported change in that it removed conservative forces
+\item English was widely replaced by French in written and spoken language of the higher social classes.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Grammatical Change}
+\begin{itemize}
+\item During the Middle English period, English developed from an inflectional to an analytic language
+\item Inflectional endings lost their distinctiveness and were finally omitted.
+\end{itemize}
+\begin{exe}
+\ex Phonetic changes\\
+final \{\#\textipa{m}\} changed to \{\#\textipa{n}\} (in dative plurals of nouns, adjectives) \\
+\textipa{munDum} (to the mouth) $\rightarrow$ \textipa{munDun}
+\ex Vowel changes\\
+\textipa{/a/, /o/, /u/, /e/} in inflectional endings changed to the \textipa{/@/} written as -e (sometimes i, y, u)
+\end{exe}	
+\end{frame}
+
+\begin{frame}
+\frametitle{Middle English Nouns}
+\begin{itemize}
+\item (Phonetic) Reduction of inflectional endings
+\begin{itemize}
+\item strong masculine declension
+\item singular (\textipa{muD, muDes, muDe, muD}) and plural (\textipa{muDas, muDa, muDum, muDas}) $\rightarrow$ reduced to \textipa{muD, muDes, muDe}
+\item The -e, indicating the dative singular and dative and genitive plural, was used also for nominative and accusative singular (\textipa{stone, muDe}).
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Middle English Nouns}
+\begin{itemize}
+\item Homogenization of plural suffixation
+\begin{itemize}
+\item The -s was the only determination of the possessive singular and of both nominative and accusative plural (the most common plurals), therefore the -s became a general plural marker.
+\item In early ME only -s and -es from strong masculine declension, and -en from weak declension remained as indications of plural.
+\item At around 1200 the -s ending was the standard plural form in the North and in the North Midlands, the -en plural still was more frequently used in the South. The -s plural was generally used all over England in the 14$^{th}$ century.
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Middle English Adjectives}
+\begin{itemize}
+\item As a result of sound changes and analogy, the nominative singular form of adjectives was used for all singular cases and the nominative plural for all plural cases in strong and weak declension.
+\item At about 1250 there only remained SG and PL distinctions in some monosyllabic strong adjectives ending in a consonant (e.g. SG glad, PL glade)
+\item In the 14$^{th}$ century the ending was used in poetry in the East and West Midlands, the status in spoken language at that time is unknown.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Middle English Demonstrative Pronouns}
+\begin{itemize}
+\item Decay of pronominal inflections like nouns and adjectives.
+\item The loss most apparent in demonstrative pronouns
+\item Formerly \textipa{se, seo, \thorn{\ae}t} but only \textipa{the} and \textipa{that} were used throughout the Middle Ages, only one of the plural forms, \textipa{tho} (those), survived to modern times.
+\item All other demonstratives, indicating number, gender and case disappeared early in ME (e.g.: of the demonstrative \textipa{{\thorn}es, {\thorn}eos, {\thorn}is} the neuter form \textipa{this} was used for all cases and in the plural only those and these survived to modern times)
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Middle English Personal Pronouns}
+\begin{itemize}
+\item Most of the OE distinctions survived; the dative and accusative forms were combined under the dative, \textipa{him, her, [t]hem}.
+\item In the neuter personal pronouns the accusative from \textipa{[h]it} became the general objective case because it was like the nominative.
+\item 3 Pers PL forms \textipa{they, their, them} were from Scandinavian, the normal development of OE would have been \textipa{hi (he), her, hem}.
+\item Loss of dual number, \textipa{wit, Zit} were not used after the 13$^{th}$ century.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Middle English Verbs}
+\begin{itemize}
+\item Greatest change $\rightarrow$ loss of strong conjugation \\ (few but frequent).
+\item New verbs borrowed from other languages or formed from nouns and adjectives were usually conjugated as weak.
+\item Nearly $1/3$ of the strong verbs were lost in the early ME period.
+\item The change from strong verbs to weak verbs was not sudden, the strong forms were at first used alongside the new weak forms:
+\begin{itemize}
+\item strong past tense \textipa{oke} of \textipa{ache} was still used in the 15$^{th}$ century next to the weak from \textipa{ache}; similar cases were \textipa{stope} : \textipa{stepped}, \textipa{clew} : \textipa{clawed}.
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Middle English Verbs}
+\begin{itemize}
+\item The weak form did not always become the commonly used form:
+\begin{itemize}
+\item the weak forms \textit{blowed} for \textit{blew}, \textit{knowed} for \textit{knew}, and \textit{teared} for \textit{tore} did not survive
+\end{itemize}
+\item But the verbs which remained strong until today were subjected to analogical influences:
+\begin{itemize}
+\item to slay, OE forms \textipa{slean} : \textipa{slog} : \textipa{slogon} : \textipa{sl{\ae}gen} would have normally become \textipa{slea} : \textipa{slough} : \textipa{slain}, the modern \textipa{slay} has developed from the past participle, the past tense \textipa{slew} was formed through analogy with verbs like \textipa{blew} and \textipa{grew}.
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Middle English Verbs}
+\begin{itemize}
+\item In OE, the past tense had two forms, one for singular and one for plural, normally the singular form survived in ME, but in many cases the vowel sound of the plural is used instead:
+\begin{itemize}
+\item in the verbs cling, sting and spin we should have had the past tense clang, stang, span, but instead we say clung, stung, spun taken from the plural
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Middle English Gender}
+\begin{itemize}
+\item Due to the loss of inflections ME lost grammatical gender.
+\begin{itemize}
+\item Gender in OE was not determined by meaning:
+\begin{exe}
+\ex \textipa{wif-mann} (woman) $\rightarrow$ masculine
+\ex \textipa{wife} and \textipa{child} $\rightarrow$ neuter.
+\end{exe}
+\item The grammatical gender in OE was mainly revealed by the endings of strong adjectives and demonstratives.
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Middle English Gender}
+\begin{itemize}
+\item Grammatical gender disappeared first in the north of England, lingered longer in the south because there the loss of inflections was slower.
+\item In OE there had been a tendency to use personal pronouns according to sex and not to grammatical gender.
+\begin{exe}
+\ex \textipa{etaD {\thorn}isne hlaf, hit is mim lichama} \\ (eat this bread, it is my body)
+\end{exe}
+\item the noun \textipa{hlaf} (bread) is masculine, but in accordance with its natural gender the pronoun \textipa{hit} (it) is used.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Middle English Syntax}
+\begin{itemize}
+\item Due to the loss of inflections as indicators \\
+of the grammatical function of nouns, \\
+adjectives, and pronouns, the semantic \\
+relations within sentences became \\
+ambiguous and thus word order became \\
+increasingly important.
+\item In Old English both SV and VS were \\
+possible
+\begin{exe}
+\ex
+\begin{xlist}
+\ex {Se cyning}_{S} meteth_{V} thone biscop.
+\ex Thone biscop meteth_{V} {se cyning}_{S}.
+\end{xlist}
+\end{exe}
+\item Transition from the synthetic to analytic can be observed in the Petersborough Chronicle (1070-1154)
+\end{itemize}
+\begin{textblock*}{10cm}(9.5cm,1.3cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/peterboroughchronicle.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{French Vocabulary}
+\begin{itemize}
+\item While the influence of French on English in terms of grammar is more indirect, the influence on vocabulary is more direct and observable.
+\item English was considered as culturally inferior and had therefore more to gain from the contact.
+\item The influence of French on the English language is not comparable with anything else in its history.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{French Vocabulary}
+1^{st} Phase: between 1066 and 1250
+\begin{itemize}
+\item relatively little influx of words (app. 900 words)
+\begin{itemize}
+\item words that were adopted by lower classes through contact with the upper classes (e.g. baron, noble, dame, servant, messenger)
+\item words due to contact with French literary tradition (e.g. story, rime, lay)
+\item the largest group of words adopted during the first phase were terms associated with the church
+\end{itemize}
+\end{itemize}
+2^{nd}d Phase: after 1250
+\begin{itemize}
+\item everyday words, governmental, legal, military terms, fashion, food, social life, art, science.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{French Vocabulary}
+\begin{itemize}
+\item After the Norman Conquest French was introduced as the language of the higher social classes and public affairs, and remained as such for more than 200 years.
+\end{itemize}
+\begin{scriptsize}
+\begin{exe}
+\ex crown, state empire, authority, court, alliance, subject, rebel, traitor, liberty, office, chancellor, chamberlain, marshal, minister, mayor, noble, peer, prince(-ss), duke, count, sir, madam, mistress, manor, bailiff, peasant, servant.
+\end{exe}
+\end{scriptsize}
+\begin{itemize}
+\item The higher clergy were mostly Norman, in monasteries and religious houses French was the common language, the church as a pathfinder to a career in politics.
+\end{itemize}
+\begin{scriptsize}
+\begin{exe}
+\ex religion, theology, sermon, sacrament, baptism, confession, prayer, clergy, prelate, cardinal, parson, pastor, crucifix, incense, lectern, image, chapter, chancel, abbey, convent, creator, savior, virgin, saint, faith, devotion, temptation, absolution, salvation, piety, sanctity, charity, pity obedience.
+\end{exe}
+\end{scriptsize}
+\end{frame}
+
+\begin{frame}
+\frametitle{French Vocabulary}
+\begin{itemize}
+\item French also became the language of the court, where the OE equivalent survived it has lost the technical sense.
+\end{itemize}
+\begin{scriptsize}
+\begin{exe}
+\ex justice, plea, plaintiff, defendant, judge, attorney, complaint, jury, panel, evidence, verdict, sentence, prison, felony, assault, fraud, perjury, adultery, property, estate, tenant, heritage, heir, entail, just, innocent
+\end{exe}
+\end{scriptsize}
+\begin{itemize}
+\item After the conquest the English army and navy were under control of the French speaking authority
+\end{itemize}
+\begin{scriptsize}
+\begin{exe}
+\ex army, navy, peace, enemy, arms, battle, soldier, garrison, guard, captain, lieutenant, sergeant; verbs: arm, array, harness, vanquish, defend
+\end{exe}
+\end{scriptsize}
+\end{frame}
+
+\begin{frame}
+\frametitle{French Vocabulary}
+\begin{itemize}
+\item Upper classes set up the standards of fashion, dining, and social life and used their terms to describe them
+\end{itemize}
+\begin{scriptsize}
+\begin{exe}
+\ex fashion, dress, robe, cloak, veil, lace, button, garter, satin, fur, blue, brown, scarlet, ruby, emerald, pearl, diamond, dinner, supper, feast, appetite, venison, beef, mutton, pork, bacon, sausage, salmon, sardine, oyster, poultry, pullet, pigeon, raisin, fig, grape, orange, pomegranate, vinegar, spice, herb, cinnamon, boil, roast, stew, mince, arras, curtain, couch, chair, blanket, parlour, wardrobe, closet, dance, solace, music, chess, leisure, rowel, trot, stable, harness, terrier, leash, kennel, scent, falcon, quail
+\end{exe}
+\end{scriptsize}
+\begin{itemize}
+\item Upper classes set up the standards of arts, learning, and medicine and used their terms to describe them
+\end{itemize}
+\begin{scriptsize}
+\begin{exe}
+\ex painting, sculpture, music, beauty, image, figure, cathedral, palace, mansion, chamber, chimney, study, logic, geometry, grammar, noun; literature: rime, prose, romance, tragedy, prologue, chapter, paper, pen, poet, chirurgy, physician, surgeon, pain, plague, pestilence, anatomy, stomach, balm
+\end{exe}
+\end{scriptsize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Norman and Central French}
+\begin{itemize}
+\item Initially English words that were borrowed from French were of Norman French (also Anglo-Norman or Anglo-French) origin but later Central French (also Parisian French) replaced the less \textquote{sophisticated} Norman dialect
+\item The French words which were introduced into the English language differ systematically from the corresponding words in Modern French.
+\end{itemize}
+\begin{scriptsize}
+\begin{exe}
+\ex Disappearance of \textipa{/s/} and <s> before consonants (late 12$^{th}$ century)
+\begin{xlist}
+\ex OF \textipa{feste} $\rightarrow$ ME \textipa{feste} $\rightarrow$ ModE \textipa{feast} : ModF \textipa{f{\^e}te}
+\ex ModE \textipa{forest} : ModF \textipa{for{\^e}t},
+\ex ModE \textipa{hostel} : ModF \textipa{h{\^o}tel}
+\end{xlist}
+\end{exe}
+\end{scriptsize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Norman and Central French}
+\begin{itemize}
+\item In some borrowed words the time of borrowing can be distinguished through pronunciation
+\end{itemize}
+\begin{scriptsize}
+\begin{exe}
+\ex Old French \textipa{/j/} and <ch> softened to \textipa{[{\v{z}}]} and \textipa{[{\v{s}}]} in French (13$^{th}$ century) while they changed to \textipa{/dZ/} and \textipa{/tS/} in English
+\begin{xlist}
+\ex ModE <judge> \textipa{/dZ2dZ/} : ModF <juge> \textipa{/\v{z}y\v{z}@/}
+\ex ModE <chant> \textipa{/tS\ae nt/} : ModF \textipa{/\v{s}o/}\\
+same process: \textit{change, charge, chamber, just, jewel} (\textit{journey} was borrowed at a later stage)
+\end{xlist}
+\ex Also: Norman French (NF) differed from Central French (CF)
+\begin{xlist}
+\ex NF initial <ca> changed to <cha> and <chie> in CF\\
+NF <cachier> $\rightarrow$ ModE <catch> : CF <chacier>
+NF <caitif> $\rightarrow$ ModE <caitiff> : CF <chaitif>
+\end{xlist}
+\ex CF avoided w-sounds (William $\rightarrow$ Guillaume)
+\begin{xlist}
+\ex NF <wiket> $\rightarrow$ ModE <wicket> : CF guichet
+\ex NF <waster> $\rightarrow$ ModE <waste> : CF guaster, gaster $\rightarrow$ ModF <gâter>
+\end{xlist}
+\end{exe}
+\end{scriptsize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Norman and Central French}
+\begin{scriptsize}
+\begin{exe}
+\ex Shifts in vowels: during ME (app. 12$^{th}$ century) the \textipa{/i/} was omitted from $<$u$>$, $<$ui$>$, $<$ew$>$ and thus pronounced as \textipa{/u:/} while in CF retained the second vowel sound.
+\begin{xlist}
+\ex ModE <fruit> \textipa{/fru:t/} : ModF \textipa{/frui/}
+\end{xlist}
+\end{exe}
+\end{scriptsize}
+\begin{itemize}
+\item The Danish linguist Otto Jespersen \\
+(1860-1943) produced a quantitative survey \\
+to identify the period in which French \\
+had the greatest influence on English, \\
+thus the period in which the greatest \\
+number of words was adopted.
+\item Jespersen identified the period 1250-1400 \\
+as being the period in which most words of French origin were incorporated into English.
+\end{itemize}
+\begin{textblock*}{10cm}(9.5cm,3.5cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/jespersen.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Dialects of Middle English}
+\begin{itemize}
+\item Great variety of dialects and variation \\
+not only in speech but also in writing
+\item Until the end of the Middle English period, \\
+there was no standard variety and writers \\
+used their native dialect.
+\item Some literary texts were translated into other dialects to make them accessible to speakers of other dialects.
+\item Differences are more apparent between the Northern and the Southern dialect. The Midland dialect has an intermediate position.
+\end{itemize}
+\begin{textblock*}{10cm}(9.5cm,1.5cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/dialectsmiddleenglish.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Dialects of Middle English}
+\begin{itemize}
+\item There are four main dialects (overlapped in some regions)
+\begin{enumerate}
+\item Northern
+\item East Midland
+\item West Midland
+\item Southern
+\end{enumerate}
+\item The differences between these dialects concern pronunciation, vocabulary and inflection.
+\begin{itemize}
+\item Ending of the plural, present indicative of verbs: \\ OE -th, Southern dialect -eth (\textipa{loveth}), Midland districts -en (\textipa{loven}), Northern -es (\textipa{loves})
+\item Pronounciation ch-k: Southern ch \textipa{/S/}, Northern k \textipa{/k/}:\\ \textipa{bench} : \textipa{benk}, \textipa{church} : \textipa{kirk}
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language contact (Latin)}
+\begin{itemize}
+\item Many Latinate words entered Middle English \\
+via French while only few Latin words were \\
+borrowed directly
+\item Most words entered English through written \\
+language with literature as a main source.
+\item The translation of Latin texts into English \\
+resulted in a large number of terms being incorporated, because \textquote{\textit{there ys many wordes in Latyn that we have no propre Englysh accordynge therto.} }
+\item Vocabulary adopted into the English language concerns a wide variety of subjects such as law, medicine, theology, science, literature etc.
+\end{itemize}
+\begin{textblock*}{10cm}(9.8cm,1.5cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/middleenglishlatin.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language contact (Latin)}
+\begin{itemize}
+\item Many terms were later introduced to the common language and survived until today
+\item The use of unusual Latin words was a stylistic device in the 15$^{th}$ century, used by many poets and writers of prose to refine their language (aureate diction).
+\end{itemize}
+\begin{exe}
+\ex mediation, oriental, prolixity, abject, allegory, conspiracy, frustrate, genius, history, index, inferior, innate, juniper, legal, magnify, necessary, picture, private, reject, scripture, solitary, suppress, temperate, testimony, tributary, \dots
+\end{exe}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language contact (Low Countries)}
+\begin{itemize}
+\item Flemish, Dutch (Frisian), and Low German
+\item Problem
+\begin{itemize}
+\item similarity between English, Flemish, Dutch, and Low German (adopted or native word?)
+\item influence stretched over a long period as England maintained trade relationships with Flanders, Holland, and northern Germany (Hanse)
+\end{itemize}
+\end{itemize}
+\begin{exe}
+\ex Low Dutch: easel, etching, landscape, cruller, cookie, cranberry, \dots
+\ex Low German: nap, cloth, lighter, dock, mart, guilder, gin, dollar, \dots
+\end{exe}
+\end{frame}
+
+\begin{frame}
+\frametitle{War of the Roses}
+\begin{itemize}
+\item Series of wars (1455-1487) for control \\
+of the throne fought between two rival \\
+branches of the royal House of \\
+Plantagenet: Lancaster (red) and \\
+York (white)
+\item The war erupted due to Henry VI's \\
+(1421-1471) weakness, which revived ambition in Richard of York, and structural problems of feudalism (increased wealth among merchants and peasants leading to monetary based social mobility)
+\end{itemize}
+\begin{textblock*}{10cm}(8.8cm,1.5cm)
+\includegraphics[width=3.8cm]{D:/Uni/Lehre/images/warodftheroses.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{War of the Roses}
+\begin{itemize}
+\item Wen Duke of York died, the claim \\
+transferred to his heir, Edward IV \\
+(1442-1483, 1^{st} Yorkist king of \\
+England).
+\item His son, Edward V (1470-1483), \\
+reigned for 86 days but Parliament \\
+then decided that Edward and his \\
+brother Richard were illegitimate and offered the crown to Edward IV's younger brother Richard III (1452-1485). The two young princes disappeared within the confines of the Tower of London.
+\end{itemize}
+\begin{textblock*}{10cm}(8.8cm,1.5cm)
+\includegraphics[width=3.8cm]{D:/Uni/Lehre/images/warodftheroses.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{War of the Roses}
+\begin{itemize}
+\item The final victory went to a claimant of \\
+the Lancastrian party, Henry Tudor \\
+(Henry VII, 1457-1509) who defeated \\
+Richard III (Battle of Bosworth Field).
+\item Henry VII married Elizabeth of York, the \\
+eldest daughter and heir of Edward IV, \\
+thereby uniting the two claims.
+\item The House of Tudor ruled England until 1603 (death of Elizabeth I, granddaughter of Henry VII and Elizabeth of York).
+\end{itemize}
+\begin{textblock*}{10cm}(9.5cm,1.5cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/henryvii.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{The Birth of Standard English}
+\begin{itemize}
+\item Standard English emerged in the end of \\
+the 14$^{th}$ century and became generally \\
+acknowledged in the 15$^{th}$ century in spoken \\
+and written language.
+\item East Midland dialect, particularly the \\
+London dialect, became the basis of Standard English
+\item London was the seat of the court and the highest judicial tribunals, political and commercial center, and the focus of the social and intellectual activity.
+\end{itemize}
+\begin{textblock*}{10cm}(9.5cm,1.5cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/printing.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{The Birth of Standard English}
+Why the East-Midland dialect?
+\begin{itemize}
+\item Printing\\
+William Caxton introduced printing \\
+in 1476 and London was the center of \\
+book publishing.
+\item Caxton, used the London dialect in his \\
+translations and books
+\end{itemize}
+\begin{textblock*}{10cm}(8.5cm,1.3cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/caxton.jpg}
+\end{textblock*}
+\begin{textblock*}{10cm}(9.5cm,4.3cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/caxtonprinting.jpg}
+\end{textblock*}
+\begin{textblock*}{10cm}(9.5cm,6cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/caxtonprinting2.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{The Birth of Standard English}
+Why the East-Midland dialect?
+\begin{itemize}
+\item The Midland dialect was intermediate to \\
+the conservative Southern and the radical \\
+Northern dialect.
+\item The East Midland district was the largest and most popular district (agriculturally valuable). The Midland districts were prominent in political affairs.
+\item Universities of Oxford and Cambridge in the Midlands were important intellectual centers in the 14$^{th}$ century
+\item Although Chaucer's works were highly popular and served as a model to other poets his conservative variety was not the variety of which Standard English is derived.
+\end{itemize}
+\begin{textblock*}{10cm}(9.5cm,1.5cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/oxford.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{The Birth of Standard English}
+Why the East-Midland dialect?
+\begin{itemize}
+\item Dialect leveling\\
+Due to migration to and from London, its \\
+dialect bore traces of all the others, \\
+and people moving away from London \\
+brought the metropolitan dialect to \\
+the countryside.
+\item By the end of the 15$^{th}$ century the London \\
+Standard was excepted in all parts of the country, at least in writing but considerable diversity still existed in the spoken dialects.
+\end{itemize}
+\begin{textblock*}{10cm}(9.5cm,1.5cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/printing2.jpg}
+\end{textblock*}
+\begin{textblock*}{10cm}(9.5cm,4cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/university.jpg}
+\end{textblock*}
+\end{frame}

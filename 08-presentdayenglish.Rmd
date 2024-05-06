@@ -1,1 +1,72 @@
 # Present Day English
+
+\section{Present Day English}
+\begin{frame}
+\begin{center}
+\textsc{Present Day English}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{English as a Global Language}
+\begin{itemize}
+\item Up to 1200 English was limited to the British Isles
+\item Phases of expansion
+\begin{itemize}
+\item Spreading of English across the British Isles
+\item Spreading beyond the British Isles due to colonization!
+\end{itemize}
+\item Native language of about 340.000.000 people
+\item 2^{nd} language in about 60 countries
+\item Major global language
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{English as a Global Language}
+\begin{itemize}
+\item English today is the most widely \\ used language
+\item Braj Kachru accounts for the \\ different functions English has \\ in different territories by \\ introducing the model of the three circles of English.
+\begin{itemize}
+\item 1st circle: English is native language
+\item 2nd circle: English is second language
+\item 3rd circle: English is a foreign language, but is widely understood
+\end{itemize}
+\end{itemize}
+\begin{textblock*}{10cm}(8.3cm,1.3cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/kachrucircle.png}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{English as a Global Language}
+\begin{itemize}
+\item English is the first truly international language
+\item Its the global lingua franca (also in intra-national communication, e.g. India)
+\item Internationally and cross-culturally there are various domains where English is used as lingua franca:
+\begin{itemize}
+\item Economy
+\item Politics
+\item Science
+\item International travel
+\item Trade and transport
+\item Modern technology (computer and Internet related terminology)
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\section{The Future of English}
+\begin{frame}
+\begin{center}
+\textsc{The Future of English}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{The Future of English}
+\begin{itemize}
+\item Former third world countries in South Asia and Africa, especially grow rapidly by economic standards and in terms of population
+\item The number of speakers in economically highly developed countries (Western culture) is by comparison in decline
+\item In the future we will probably see an increase in independence of varieties which are still regarded as \textquote{inferior} sub-varieties of English
+\end{itemize}
+\end{frame}

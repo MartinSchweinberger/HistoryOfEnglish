@@ -1,1 +1,15 @@
 # Emprical Approaches to Diachronic Linguistics
+
+
+\section{Empirical approaches to language change}
+\begin{frame}
+\begin{exe}
+\ex The man who cried shot the granny.
+\ex 
+\begin{exe}
+\ex The man whom I met yesterday shot a granny.
+\ex The man I met yesterday shot a granny.
+\ex The man who I met yesterday shot a granny.
+\end{exe}
+\end{exe}
+\end{frame}

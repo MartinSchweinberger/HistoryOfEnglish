@@ -364,3 +364,190 @@ You our father, you are in heaven, be your name hallowed. Come your realm. Be yo
 - Had Alfred not won, Britain would be Scandinavian today.
 - Alfred united the remaining Anglo-Saxons and revitalized English (education, poetry, and official documents in Old English)
 
+\begin{frame}
+\frametitle{Old English and Old Norse}
+\begin{itemize}
+\item During the Danelaw, Anglo-Saxons \\
+and Vikings traded and \\
+inter-married
+\item Thus, there was very strong \\
+influence of Old Norse \\
+(Viking language) on Old English
+\item The influence of Old Norse is still \\
+visible in place (-by) and family\\
+names (X-son).
+\begin{textblock*}{10cm}(8cm,1.5cm)
+\includegraphics[width=4.5cm]{D:/Uni/Lehre/images/47-Great-Danish-Army.png}
+\end{textblock*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Old English and Old Norse}
+\begin{itemize}
+\item Core vocabulary that has its \\
+origin in Old Norse: \\
+\textit{give}, \textit{law} (Anglo-Saxon: \textit{doom}; \\
+cf. \textit{to deem}, \textit{king-dom} or \textit{recht}), \\
+\textit{leg}, \textit{skin} (Anglo-Saxon: \textit{haut}), \\
+\textit{sky}, \textit{take}, \textit{neck} (Anglo-Saxon: \\
+\textit{hals}), \textit{wing} (Anglo-Saxon: \\
+\textit{feather}), \textit{die} (Anglo-Saxon: \\
+\textit{stearvan} which would become \textit{starve}), and \textit{they} (may be because of phonetic similarity between \textit{heo} (3^{rd} pers. sg. feminine and \textit{hie} 3^{rd} pers. pl.).
+\begin{textblock*}{10cm}(7.7cm,1.4cm)
+\includegraphics[width=4.7cm]{D:/Uni/Lehre/images/60-Sweyns-Conquest.png}
+\end{textblock*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Old English and Old Norse}
+Ragnar Lothbrok
+\begin{itemize}
+\item Ragnar Lothbrok reached Paris in 845 \\
+and was paid off by Charles the bald \\
+which allowed him to raid England.
+\item When Ragnar was killed by\textipa{\AE lla}, \\
+king of Northumbria who had him \\
+thrown into a pit of snakes, his death \\
+was avenged by the Great Heathen Army \\
+that invaded and occupied Northumbria and adjoining Anglo-Saxon kingdoms.
+\item The invasion of the Great Danish Army led to the establishment of the Danelaw.
+\begin{textblock*}{10cm}(9cm,1.4cm)
+\includegraphics[width=3.5cm]{D:/Uni/Lehre/images/ragnar.jpg}
+\end{textblock*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Old English and Old Norse}
+911 and \textquote{Make England Great Again}
+\begin{itemize}
+\item In France, Frankish King Charles the \\
+Simple offered Rollo the Duchy of \\
+Normandy if he guarded the estuaries \\
+of the Seine from further Viking attacks.
+\item In the Danelaw, there was no single ruler \\
+but rule was local and decentralized, \\
+while Alfred the Great had unified the Anglo-Saxons.
+\item This reversed the earlier situation (Vikings united, Anglo-Saxons divided) and allowed the Anglo-Saxons to go on the offensive.
+\begin{textblock*}{10cm}(9cm,1.5cm)
+\includegraphics[width=3.5cm]{D:/Uni/Lehre/images/rollo.jpg}
+\end{textblock*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Old English and Old Norse}
+911 and \textquote{Make England Great Again}
+\begin{itemize}
+\item With her brother Edward the Elder, \\
+\textipa{\AE thelfl\ae d} won back Mercia and \\
+recaptured Essex in 913. Edward's \\
+son, \textipa{\AE thelstan}, annexed \\
+Northumbria and forced the kings \\
+of Wales to submit; at the Battle \\
+of Brunanburh in 937, he defeated \\
+an alliance of the Scots, Danes, and \\
+Vikings to become King of all England - thereby uniting England under Anglo-Saxon rule and ending the Danelaw.
+\end{itemize}
+\begin{textblock*}{10cm}(8.2cm,1.5cm)
+\includegraphics[width=4.5cm]{D:/Uni/Lehre/images/vikingplacenames.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Old English and Old Norse}
+\begin{itemize}
+\item After Britain was united, \\
+\AE thelred the Unready inherited \\
+the throne.
+\item A new wave of Viking raids led \\
+by Sweyn Forkbeard, King of \\
+Denmark, started in 980.
+\item To counter the raids, \AE thelred\\
+signed a peace treaty with \\
+Normandy in 991AD.
+\item This meant that Normandy could no longer serve as a base for Viking raids and refuge for Viking armies.
+\begin{textblock*}{10cm}(7.7cm,1.4cm)
+\includegraphics[width=4.7cm]{D:/Uni/Lehre/images/60-Sweyns-Conquest.png}
+\end{textblock*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Old English and Old Norse}
+\begin{itemize}
+\item \AE thelred paid the raiders \\
+Danegeld (to avoid raids) which \\
+made raids even more lucrative \\
+and massively impoverished \\
+England causing famine and \\
+weakened the defensive ability \\
+of England.
+\item Due to over-confidence based on \\
+the treaty with Normandy and \\
+the unacceptable consequences that the Viking raids which had started in 980 had caused, \AE thelred ordered local officials and ordinary people to murder Danes (e.g. St. Brice's Day massacre, Oxford 13^{th} Nov., 1002)
+\begin{textblock*}{10cm}(7.7cm,1.4cm)
+\includegraphics[width=4.7cm]{D:/Uni/Lehre/images/60-Sweyns-Conquest.png}
+\end{textblock*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Old English and Old Norse}
+\begin{itemize}
+\item One prominent death among the \\
+Danes was Gunhilde (origin of \textit{gun}).
+\item Gunhilde was sister of Sweyn Fork-\\
+beard and daughter of Harald \\
+Bluetooth who had successfully \\
+united several Norse peoples (connect \\
+different devices: Bluetooth)
+\item To revenge the death of his sister, \\
+Sweyn and his son Canute aimed to conquer England with campaigns between 1014 and 1016 (financed by the Danegeld) against \AE thelred and his Norwegian ally, king Olaf of Norway.
+\begin{textblock*}{10cm}(8.6cm,1.3cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/cnut.jpg}
+\end{textblock*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Old English and Old Norse}
+\begin{itemize}
+\item \AE thelred died in 1015 and his son \\
+Edmund Ironside became king of \\
+England and continued to fight \\
+the Danes.
+\item After a short period of peace \\
+because Edmund had gained \\
+victories, he died and Canute \\
+became sole king of England.
+\item After subduing England, Denmark, \\
+and Norway in enduring wars \\
+Canute became ruler of the united Viking empire which he aimed to unite politically and culturally.
+\end{itemize}
+\begin{textblock*}{10cm}(8.5cm,1.4cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/Danish-Empire-Revised.png}
+\end{textblock*}
+\begin{textblock*}{10cm}(8.5cm,5.5cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/cnutedmund.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Old English and Old Norse}
+\begin{itemize}
+\item The royal Anglo-Saxon family had \\
+already fled to Normandy to avoid \\
+captivity and as there existed \\
+ties between the royal family and \\
+Normandy since \AE thelred had married \\
+Richard II of Normandy's daughter, Emma.
+\item When Canute died in 1035, succession to the English throne was unclear but finally, Edward the Confessor became king of England in 1042.
+\item When Edward died childless in 1066, he was succeeded by Harold Godwinson, who was defeated and killed in the same year by the Normans under William the Conqueror at the Battle of Hastings
+\begin{textblock*}{10cm}(9.5cm,1.4cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/edwardtheconfessor.jpg}
+\end{textblock*}
+\end{itemize}
+\end{frame}

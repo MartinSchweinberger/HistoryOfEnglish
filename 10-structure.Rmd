@@ -1,1 +1,948 @@
-# How Structure Arises
+# How Structure Arises: Grammatical Change and Grammaticalization
+
+
+## Today's topics
+
+- Grammatical Change
+- Grammaticalization
+- Semantic Change
+
+## Grammatical Change
+
+From SOV in OE to SVO in PDE? 
+
+\begin{footnotesize}
+\begin{exe}
+\ex Gregory made him flee. (PDE: SVO)
+\ex \gll Gregorius [hine_{object}] [afligde_{verb}] (Homilies of Ælfric, 22.624)\\
+Gregory him put-to-flight\\
+\glt "Gregory made him flee"
+\end{exe}
+\end{footnotesize}
+
+\begin{frame}
+\frametitle{Grammatical Change}
+From SOV in OE to SVO in PDE? $\rightarrow$ not that simple!\\
+\begin{footnotesize}
+SOV
+\begin{exe}
+\ex \gll Gregorius $[$hine$_{object}]$ $[$afligde$_{verb}]$ (Homilies of \AE lfric, 22.624)\\
+Gregory him put-to-flight\\
+\glt \textquote{Gregory made him flee}
+\end{exe}
+SVO if Object is a full DP or NP
+\begin{exe}
+\ex \gll Gregorius $[$afligde$_{verb}]$ $[$\textthorn one guman$_{object}]$ \\
+Gregorius put-to-flight the man \\
+\glt \textquote{Gregorius made the man flee.}
+\end{exe}
+AuxSOV if the verb is an auxiliary, it occurs before the object but lexical verbs typically occur after the object
+\begin{exe}
+\ex \gll Ne sceal he $[$naht unaliefedes$_{object}]$ $[$don$_{verb}]$ (Pastoral Care, 10.61.14)\\
+not shall he nothing unlawful do\\
+\glt \textquote{He will do nothing unlawful}
+\end{exe}
+\end{footnotesize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Grammatical Change}
+From SOV in OE to SVO in PDE? $\rightarrow$ not that simple!\\
+\begin{footnotesize}
+If the sentence is introduced by an adverb: VSO or VOS
+\begin{exe}
+\ex For\textthorn on $[$afligde$_{verb}]$ $[$Gregorius$_{subj}]$ $[$\textthorn one guman$_{obj}]$ \\
+\ex For\textthorn on $[$afligde$_{verb}]$ $[$\textthorn one guman$_{obj}]$ $[$Gregorius$_{subj}]$ \\
+\glt \textquote{Therefore Gregorius made the man flee.}
+\end{exe}
+If the subject is a pro-form it typically precedes the verb: SVO
+\begin{exe}
+\ex For\textthorn on $[$he$_{subject}]$ $[$afligde$_{verb}]$ $[$\textthorn one guman$_{obj}]$ \\
+\glt \textquote{Therefore he made the man flee.}
+\end{exe}
+Similar to PDE
+\begin{exe}
+\ex Never had Gregory seen so much rain.
+\end{exe}
+\end{footnotesize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Grammatical Change}
+From SOV in OE to SVO in PDE? $\rightarrow$ not that simple!
+\begin{itemize}
+\item How did speakers know which form fulfilled the object and which fulfilled the subject function?
+\end{itemize}
+\begin{exe}
+\ex $[$se guma$_{subj}]$ $[$afligde$_{verb}]$ $[$\textthorn one guman$_{obj}]$ \\
+\glt \textquote{The man made the man flee.}
+\end{exe}
+\begin{exe}
+\ex $[$\textthorn one guman$_{obj}]$ $[$afligde$_{verb}]$ $[$se guma$_{subj}]$\\
+\glt \textquote{The man made the man flee.}
+\end{exe}
+\end{frame}
+
+\begin{frame}
+\frametitle{Grammar and Syntax}
+\footnotesize{\Tree [.Grammar [.{Inflectional morphology \\ structure of words} ] [.{Syntax structure of phrases, \\ clauses, and sentences} ] ] }
+\end{frame}
+
+\begin{frame}
+\frametitle{Languages in comparison}
+Sequencing is not unlimited, i.e. the number of grammatically accepted combinations is limited.
+\begin{itemize}
+\item Some languages achieve via inflection (Latin) what other languages achieve syntactically (English).
+\end{itemize}
+\begin{exe}
+\footnotesize{\ex The boy sees the girl. $\neq$ The girl sees the boy. }
+\ex \footnotesize{ Puer videt puellam. = Puellam puer videt. = Puer puellam videt. = Videt puer puellam.}
+\end{exe}
+\begin{itemize}
+\item In English the grammatical information (subject vs. object) is encoded in the word order, while the same information is encoded in case marking in Latin (nominative = subject; accusative = direct object).
+\item Languages are categorized according to how they encode grammatical information.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Creation of morphological marking}
+\begin{itemize}
+\item Generally speaking, there is a trend across all Indo-European languages to develop from synthetic to analytic
+\item This process started long before Old English as inflection/conjugation of Old English is relatively poor compared to the inflection/conjugation of Proto-Indo-European
+\item But there are examples of the opposite trend as languages occasionally develop inflections/conjugations
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Creation of morphological marking}
+\begin{itemize}
+\item In standard BrE and standard AmE, there is no distinction between singular \textit{you} and plural \textit{you}
+\end{itemize}
+\begin{exe}
+\ex StBrE and StAmE\\
+SG \textit{you} vs PL \textit{you}
+\end{exe}
+\begin{itemize}
+\item Several varieties are introducing a distinction between SG \textit{you} and PL \textit{you}:
+\end{itemize}
+\begin{exe}
+\ex IrE and ScE\\
+SG \textit{you} vs PL \textit{youse}
+\ex SAmE\\
+SG \textit{you} vs PL \textit{you all} or \textit{yall}
+\end{exe}
+\end{frame}
+
+\begin{frame}
+\frametitle{Creation of morphological marking}
+\begin{small}
+\begin{tabular}{cc}
+\multirow{3}{*}{Latin} & hoc die \\
+& $\downarrow$ \\
+& hodie \\
+\multirow{4}{*}{Old French} & $\downarrow$ \\
+& hui \\
+& $\downarrow$ \\
+& au jour d'hui \\
+\multirow{4}{*}{Modern French} & $\downarrow$ \\
+& ajourd'hui \\
+& $\downarrow$ \\
+& au jour d'ajourd'hui \\
+\end{tabular}
+\end{small}
+\end{frame}
+
+\begin{frame}
+\frametitle{Grammatical Change}
+Creation of morphological marking\\[.5cm]
+\begin{small}
+\begin{tabular}{cc}
+\multirow{5}{*}{Old English} & ufan (up-on) \\
+& $\downarrow$ \\
+& be-ufan (by-upon) \\
+& $\downarrow$ \\
+& bufan \\
+\multirow{3}{*}{Middle English} & $\downarrow$ \\
+& an-bufan (on-byupon) \\
+& $\downarrow$ \\
+\multirow{3}{*}{Modern English} & above \\
+& $\downarrow$ \\
+& up above (up-onbyupon) \\
+\end{tabular}
+\end{small}
+\end{frame}
+\subsection{Grammaticalization}
+\begin{frame}
+\begin{center}
+\textsc{Grammaticalization}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{What is grammaticalization?}
+\begin{itemize}
+\item Grammaticalization can be \textquote{defined as the development of grammatical constructions out of more lexical expressions.} \citep{hollmann2009grammatical}
+\item Grammaticalization is the process whereby lexical items develop into grammatical items and items that are already grammaticalized assume new grammatical functions. \citep{hopper2003grammaticalization}
+\end{itemize}
+Grammaticalization is a unidirectional process during which (new) grammatical constructions develop from less grammatical (lexical) constructions.
+\end{frame}
+
+\begin{frame}
+\frametitle{Mechanisms and Features of Grammaticalization}
+\begin{itemize}
+\item Desemanticization (semantic bleaching)
+\item Extension (new functions are acquired)
+\item Subjectification (new meaning is more subjective)
+\item Decategorialization (change of word class)
+\item Erosion/Attrition (morphological/phonological material is lost)
+\item Persistence (older forms continue to exist)
+\item Loss of constituent structure (constituency boundaries change)
+\item Unidirectionality (lexical $\rightarrow$ grammatical)
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Mechanisms and Features of Grammaticalization}
+Desemanticization (semantic bleaching)
+\begin{itemize}
+\item There is an observable grammaticalization cline from concrete/objective/physical meaning to a metaphorical/subjective/abstract meaning.
+\end{itemize}
+\begin{footnotesize}
+\begin{exe}
+\ex
+\begin{xlist}
+\ex I'm \textit{going} to Mary later on. (physical act of going/walking)
+\ex I \textit{go} to school. (attendance)
+\ex I'm \textit{going} to watch a movie. (intention/volition)
+\ex I'm \textit{gonna} wash the dishes later on. (futurity)
+\end{xlist}
+\ex go (motion) $\rightarrow$ gonna (aux)
+\ex have (poss) $\rightarrow$ have (aux)
+\ex that (pointing) $\rightarrow$ the (definiteness)
+\end{exe}
+\end{footnotesize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Mechanisms and Features of Grammaticalization}
+Extension (new functions are acquired)
+\begin{itemize}
+\item The concrete lexical meaning is lost while a more abstract grammatical function/meaning arises.
+\end{itemize}
+\begin{footnotesize}
+\begin{exe}
+\ex I'm \textit{going} to Mary later on. (physical act of going/walking)
+\ex I \textit{go} to school. (attendance)
+\ex I'm \textit{going} to watch a movie. (intention/volition)
+\ex I'm \textit{gonna} wash the dishes later on. (futurity)
+\end{exe}
+\end{footnotesize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Mechanisms and Features of Grammaticalization}
+Subjectification (new meaning is more subjective)
+\begin{itemize}
+\item The concrete and objective lexical meaning gives rise to a more subjective meaning.
+\end{itemize}
+\begin{footnotesize}
+\begin{exe}
+\ex He \textit{can} lift the stone. (physical/objective ability)
+\ex He \textit{can} oversee the troops. (metaphorical/cognitive ability)
+\ex \textit{Can} you pass me the salt? (subjective/intention/volition)
+\end{exe}
+\end{footnotesize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Mechanisms and Features of Grammaticalization}
+Decategorialization (change of word class)
+\begin{itemize}
+\item During the acquisition of a new grammatical function, words change their status with respect to the word classT they belong to.
+\end{itemize}
+\begin{footnotesize}
+\begin{exe}
+\ex
+\begin{xlist}
+\ex I'm \textit{going} to Mary later on. (part-of-speech: lexical verb)
+\ex I'm \textit{going} to watch a movie. (part-of-speech: auxiliary verb)
+\end{xlist}
+\ex
+\begin{xlist}
+\ex He had only \textit{one} army. (part-of-speech: determiner (numeral))
+\ex He had \textit{an} army. (part-of-speech: determiner (indefinite article))
+\end{xlist}
+\end{exe}
+\end{footnotesize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Mechanisms and Features of Grammaticalization}
+Erosion/Attrition
+\begin{itemize}
+\item morphological/phonological material is lost
+\item attrition: phonetic reduction
+\end{itemize}
+\begin{exe}
+\ex going to $\rightarrow$ gonna
+\ex I will $\rightarrow$ I'll
+\ex I am $\rightarrow$ I'm
+\ex do not $\rightarrow$ don't
+\end{exe}
+\end{frame}
+
+\begin{frame}
+\frametitle{Mechanisms and Features of Grammaticalization}
+Persistence
+\begin{itemize}
+\item Polysemy: archaic variants continue to exist alongside the new grammaticalized form
+\end{itemize}
+\begin{exe}
+\ex I'm \textit{going to} Mary later on.
+\ex I'm \textit{going to} see Mary later on.
+\ex I'm \textit{gonna} see Mary later on.
+\end{exe}
+\end{frame}
+
+\begin{frame}
+\frametitle{Mechanisms and Features of Grammaticalization}
+Loss of constituent structure
+\begin{itemize}
+\item Constituency boundaries change
+\end{itemize}
+\begin{exe}
+\ex want to $\rightarrow$ wanna
+\ex [in [front [of$\rule{.2cm}{0.15mm}$]]] $\rightarrow$ [in front of [$\rule{.2cm}{0.15mm}$]]
+\ex some_{Det} body_{N} $\rightarrow$ [somebody]_{pro}
+
+\ex
+\begin{xlist}
+\ex I am sure you will like Bill.
+\ex I am sure you are going to like Bill.
+\end{xlist}
+\ex I [am going [to marry [Bill]]].
+\ex I [[[am [going to]] marry] [Bill]]
+\end{exe}
+\end{frame}
+
+\begin{frame}
+\frametitle{Mechanisms and Features of Grammaticalization}
+Loss of constituent structure
+\begin{itemize}
+\item Constituency boundaries change
+\end{itemize}
+\begin{exe}
+\ex I [am going [to marry [Bill]]].
+\ex I [[[am [going to]] marry] [Bill]]
+\end{exe}
+\footnotesize{\Tree [.S I [ [.VC am going ] [.SentC [.VC to marry ] [ Bill ] ] ] ]}
+\footnotesize{\Tree [.S I [ [.VC [ am [ going to ] ] marry ] Bill ] ]}
+\end{frame}
+
+\begin{frame}
+\frametitle{Mechanisms and Features of Grammaticalization}
+Unidirectionality
+\begin{itemize}
+\item lexical $\rightarrow$ grammatical\\
+not (rarely)\\
+grammatical $\rightarrow$ lexical
+\item typical source domains (\textsc{futurity} derived from \textsc{volition}, \textsc{obligation}, \textsc{movement (walking)}
+\end{itemize}
+\begin{exe}
+\ex I'm \textit{going to} Mary later on.
+\ex I'm \textit{going to} see Mary later on.
+\ex I'm \textit{gonna} see Mary later on.
+\end{exe}
+\end{frame}
+
+\begin{frame}
+\frametitle{De-grammaticalization}
+All grammatical morphemes have developed out of lexical morphemes, principally nouns and verbs\dots \citep{bybee2003grammaticalization}\\[.2cm]
+\begin{exe}
+\ex Johnens brother is sick. \\
+(phonologically full form of the genitive suffix)
+\ex John's brother is sick. (until EME)
+\ex John his brother is sick (Reanalysis during EME)
+\end{exe}
+\begin{center}
+word $\rightarrow$ clitic $\rightarrow$ affix $\rightarrow$ $\emptyset$
+\end{center}
+Unidirectionality: from lexis to grammar (not the other way around)?
+\end{frame}
+
+\begin{frame}
+\frametitle{De-grammaticalization}
+All grammatical morphemes have developed out of lexical morphemes, principally nouns and verbs\dots \citep{bybee2003grammaticalization}\\[.2cm]
+\begin{exe}
+\ex I should have killed him.
+\ex I should 've killed him.
+\ex I should've killed him.
+\ex I should of killed him. (reanalysis in PDE)
+\end{exe}
+\begin{center}
+word $\rightarrow$ clitic $\rightarrow$ affix $\rightarrow$ $\emptyset$
+\end{center}
+Unidirectionality: from lexis to grammar (not the other way around)?
+\end{frame}
+
+\begin{frame}
+\frametitle{Case study (lets)}
+\begin{exe}
+\ex
+\begin{xlist}
+\ex Let yourself down on the rope.
+\ex Let Bill go.
+\ex Let me see it.
+\end{xlist}
+\ex
+\begin{xlist}
+\ex Let's go to the circus tonight.
+\ex Let's watch a movie.
+\end{xlist}
+\ex Lets give you a hand. (= I'll give you a hand)
+\end{exe}
+\end{frame}
+
+\begin{frame}
+\frametitle{Case study (lets)}
+\begin{itemize}
+\item[--] The meaning has become more subjective.
+\item[--] The final –s has lost its status as a separate morpheme (word $\rightarrow$ clitic $\rightarrow$ affix $\rightarrow$ speech sound).
+\item[--] Phonological reduction (\textipa{/les/}; sgo: Let us go!)
+\item[--] Range of syntactic contexts has been extended.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Mechanisms of grammaticalization}
+Metaphorical extension
+\begin{itemize}
+\item The semantic meaning of a word is metaphorically extended by mapping meaning components from a source domain (concrete/physical) onto a target domain (abstract/subjective)
+\end{itemize}
+\begin{scriptsize}
+\begin{exe}
+\ex
+\begin{xlist}
+\ex The priest stood before the altar.
+\ex St. Michael's day is before Christmas.
+\end{xlist}
+\ex
+\begin{xlist}
+\ex Bill is in Leipzig.
+\ex He will come in the spring.
+\end{xlist}
+\ex
+\begin{xlist}
+\ex The balloon flew over the hill.
+\ex The game is over.
+\end{xlist}
+\ex
+\begin{xlist}
+\ex He followed him.
+\ex World War II was followed by the Cold War.
+\end{xlist}
+\end{exe}
+\end{scriptsize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Mechanisms of grammaticalization}
+Metaphorical extension
+\begin{itemize}
+\item The semantic meaning of a word is metaphorically extended by mapping meaning components from a source domain (concrete/physical) onto a target domain (abstract/subjective)
+\end{itemize}
+\begin{scriptsize}
+\begin{exe}
+\ex
+\begin{xlist}
+\ex That's a pretty long log.
+\ex It has been a pretty long day.
+\end{xlist}
+\ex
+\begin{xlist}
+\ex They were driving along the river.
+\ex He new it all along.
+\end{xlist}
+\ex
+\begin{xlist}
+\ex At the end of the queue.
+\ex At the end of the day.
+\end{xlist}
+\end{exe}
+\end{scriptsize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Origin of grammatical items}
+Auxiliaries
+\begin{itemize}
+\item[--] \textit{go} [motion verb] $\rightarrow$ gonna [auxiliary]
+\item[--] \textit{will} [V of intention] $\rightarrow$ will [auxiliary]
+\item[--] \textit{have} [V of possession] $\rightarrow$ have [auxiliary]
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Origin of grammatical items}
+Bound morphemes
+\begin{itemize}
+\item[--] noun meaning \textit{with} an x--appearance of $\rightarrow$ x--ly
+\item[--] noun meaning $\rightarrow$ x--hood
+\item[--] auxiliary \textit{do} $\rightarrow$ x--ed
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Origin of grammatical items}
+Conjunctions
+\begin{itemize}
+\item[--] DEM hwile SUB (hwile = time) $\rightarrow$ while [conjunction]
+\item[--] by cause (preposition+noun) $\rightarrow$ because [conjunction]
+\item[--] given [past participle of \textit{give}] $\rightarrow$ given [conjunction]
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Origin of grammatical items}
+Prepositions
+\begin{itemize}
+\item[--] during [verb in continuous form] $\rightarrow$ during [preposition]
+\item[--] in front of [PP] $\rightarrow$ in front of [preposition]
+\item[--] a-gone [PREFIX-verb] $\rightarrow$ ago [postposition]
+\item[--] be-foran $\rightarrow$ before [preposition]
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Origin of grammatical items}
+Indefinite pronouns
+\begin{itemize}
+\item[--] some body [NP] $\rightarrow$ somebody [indefinite pro]
+\item[--] one [numeral] $\rightarrow$ one [article/pronoun]
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Origin of grammatical items}
+Epistemic/discourse markers
+\begin{itemize}
+\item[--] (do you) you know [question] $\rightarrow$ y'know
+\item[--] I think [matrix clause] $\rightarrow$ (I) think
+\item[--] guess [imperative matrix clause] $\rightarrow$ guess
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Implications for linguistic theory}
+\begin{itemize}
+\item[--] Challenges the division between lexicon and grammar \\
+Grammar evolves from lexical expressions.
+\item[--] Challenges the assumption that linguistic categories have rigid category boundaries: \\
+Is \textit{in front of} a PP or a preposition? Indirect support for a prototype approach to linguistic categorization.
+\item[--] Challenges the static view of grammar: \\
+Linguistic structures and linguistic categories appear to be fluid.
+\end{itemize}
+\end{frame}
+
+\subsection{Grammaticalization Excercises}
+\begin{frame}
+\begin{center}
+\textsc{Grammaticalization Excercises}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Excercise}
+\begin{itemize}
+\item Form groups of two and have a look at one of the sentences on the next slide. Determine which words have grammaticalized and speculate about their origin, i.e. out of what they developed.
+\item After 2--3 Minutes, team up with another group that inspected the same sentence. After 3 Minutes, team up with groups that did not investigate the same sentence you did and discuss your thoughts.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Excercise}
+\begin{scriptsize}
+\begin{enumerate}
+\item Language change is a topic that spreads itself over a wide range of areas.
+\item Therefore a good historical linguist must have a solid background in all subfields of linguistics.
+\item Indeed, most historical linguists began as general linguists before they turned to the study of language change.
+\item Traditionally, historical linguistics was primarily concerned with phonological and morphological change.
+\item However, in recent years the focus has shifted onto syntax and the development of grammar.
+\item Grammaticalization has become a central topic for anybody who is interested in language change because it challenges central assumptions of linguistic theory.
+\item Nevertheless, given that grammaticalization involves phonological and morphological change, it also revived the interest in the study of traditional topics in historical linguistics.
+\end{enumerate}
+\end{scriptsize}
+\end{frame}
+
+\begin{frame}
+Language change is a topic that spreads itself over a wide range of areas.
+\begin{table}
+\begin{scriptsize}
+\begin{tabular}{lll}
+\hline
+is & copula & (1) to exist \\
+& & (2) stand / stay / lie \\
+& & (3) that / it \\
+a & indef. article & one (numeral) \\
+that & relative pro & demonstrative \\
+-s & argeement & (1) pronouns (e.g. look-it) \\
+& & (2) auxiliary (e.g. look-has) \\
+itself & reflexive pro & it + self \\
+over & preposition & (1) relational nouns: in front of \\
+& & (2) body part term \\
+& & back $\rightarrow$ in back of \\
+& & stomach $\rightarrow$ in \\
+& & head $\rightarrow$ on \\
+& & buttock $\rightarrow$ under \\
+-s & plural marker & dem $\rightarrow$ article $\rightarrow$ plural marker \\
+\hline
+\end{tabular}
+\end{scriptsize}
+\end{table}
+\end{frame}
+
+\begin{frame}
+Therefore a good historical linguist must have a solid background in all subfield-s of linguistics.
+\begin{table}
+\begin{scriptsize}
+%\resizebox{\textwidth}{!}{%
+\begin{tabular}{lll}
+\hline
+therefore & conjunct & there (DEM) + fore (P) \\
+must & modal & mete: to have the opportunity / \\
+& & to be permitted \\
+\hline
+\end{tabular}%}
+\end{scriptsize}
+\end{table}
+\end{frame}
+
+\begin{frame}
+Indeed, most historical linguists began as general linguists before they turned to the study of language change.
+\begin{table}
+\begin{scriptsize}
+%\resizebox{\textwidth}{!}{%
+\begin{tabular}{lll}
+\hline
+indeed & disc. marker & in (P) + deed (N) \\
+as & conjunction & all + so (DEM) \\
+before & conjunction & be (=by) (P) + fore (=for) (P) \\
+-ed & past tense & V-do \\
+the & definite article & \textipa{Des} (DEM) \\
+\hline
+\end{tabular}%}
+\end{scriptsize}
+\end{table}
+\end{frame}
+
+\begin{frame}
+Traditional-ly, historical linguistics was primari-ly concern-ed with phonological and morphological change.
+\begin{table}
+\begin{scriptsize}
+%\resizebox{\textwidth}{!}{%
+\begin{tabular}{lll}
+\hline
+-ly & adverb & lic $rightarrow$ appearance/form/body \\
+was & auxiliary & copula \\
+with & preposition & against \\
+and & conjunction & with (P) \\
+\hline
+\end{tabular}%}
+\end{scriptsize}
+\end{table}
+\end{frame}
+
+\begin{frame}
+However, in recent year-s the focus has shift-ed onto syntax and the development of grammar.
+\begin{table}
+\begin{scriptsize}
+%\resizebox{\textwidth}{!}{%
+\begin{tabular}{lll}
+\hline
+however & conjunct & how + ever \\
+has & auxiliary & to possess (V) \\
+onto & preposition & on + to \\
+\hline
+\end{tabular}%}
+\end{scriptsize}
+\end{table}
+\end{frame}
+
+\begin{frame}
+Grammaticalization has become a central topic for anybody who is interest-ed in language change because it challenge-s central assumption-s of linguistic theory.
+\begin{table}
+\begin{scriptsize}
+%\resizebox{\textwidth}{!}{%
+\begin{tabular}{lll}
+\hline
+anybody & indefinite pro & any = an + ig / y (cf. might-y) \\
+who & relative pro & question word \\
+because & conjunction & by + cause (PP) \\
+it & personal pro & that (DEM) \\
+\hline
+\end{tabular}%}
+\end{scriptsize}
+\end{table}
+\end{frame}
+
+\begin{frame}
+Nevertheless, given that grammaticalization involve-s phonological and morphological change, it also reviv-ed the interest in the study of traditional topic-s in historical linguistics.
+\begin{table}
+\begin{scriptsize}
+%\resizebox{\textwidth}{!}{%
+\begin{tabular}{lll}
+\hline
+nevertheless & discourse & never + the + less \\
+given & conditional & to give \\
+that & complementizer & DEM \\
+\hline
+\end{tabular}%}
+\end{scriptsize}
+\end{table}
+\end{frame}
+
+\subsection{Semantic Change}
+\begin{frame}
+\begin{center}
+\textsc{Semantic Change}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Semantic Change}
+\begin{itemize}
+\item Previously, we dealt with changes from lexis to grammar
+\begin{exe}
+\ex will (want) $\rightarrow$ will (future)
+\ex going to (walking) $\rightarrow$ going to (future)
+\end{exe}
+\item However, there are many instances of semantic change, i.e. changes in meaning that do not lead to an acquisition of grammatical function
+\begin{exe}
+\ex girl (young human) $\rightarrow$ girl (young female)
+\ex nice (naive) $\rightarrow$ nice (friendly)
+\end{exe}
+\item Grammatical change (grammaticalization) and semantic change overlap with respect to the mechanisms involved (e.g. subjectification).
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Semantic Change}
+Objectivist/truth-conditional semantics
+\begin{itemize}
+\item Objectivist/truth-conditional semantics is feature-based (presence or absence of features)
+\item All members of a category have equal status
+\end{itemize}
+Example of a feature matrix\\
+\begin{tabularx}{\textwidth} {cccc}
+man & woman & boy & girl \\
+$[+human]$ & $[+human]$ & $[+human]$ & $[+human]$ \\
+$[+adult]$ & $[+adult]$ & $[-adult]$ & $[-adult]$ \\
+$[+male]$ & $[-male]$ & $[+male]$ & $[-male]$ \\
+\end{tabularx}
+\end{frame}
+
+\begin{frame}
+\frametitle{Semantic Change}
+Cognitive Semantics (Prototype Semantics)
+\begin{itemize}
+\item Since about the 1980s language is understood as part of our cognitive ability through which we organize and classify all aspects of our experience.
+\item Cognitive semantics is based upon the assumption that meaning is linked to the way we mentally group all kinds of perceptions and phenomena into conceptual categories.
+\item Categorization and conceptualization are based on the comparison of new things with ones we already know and the resulting cognitive construction of similarities between different entities.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Semantic Change}
+Cognitive Semantics (Prototype Semantics)
+\begin{itemize}
+\item Some concepts of expressions like the PRESIDENT OF THE UNITED STATES are rather clear-cut, while other concepts like those of STRONG or TALL are rather fuzzy.
+\item Fuzzy concepts are characteristic of the human conceptual system.
+\item Many concepts do not only have fuzzy boundaries, but can also be graded according to their typicality.
+\item For example, \textit{robins} and \textit{sparrows} are more birdlike, i.e. more prototypical than \textit{penguins} or \textit{ostriches}.
+\item Prototypes, such as \textit{robins} for the concept BIRD are cognitive reference points.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Prototype Schema for BIRD}
+\begin{textblock*}{1cm}(3cm,2.5cm)
+\includegraphics[width=6cm]{D:/Uni/Lehre/images/prototypebirds.png}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Types of Semantic Change}
+Melioration
+\begin{itemize}
+\item Semantic change that results in a more positive meaning
+\end{itemize}
+\begin{exe}
+\ex rude (bad): \textit{Don't be so rude} $\rightarrow$ rude (cool): \textit{He's a rude boy}
+\ex nice (simple, naive): \textit{She was a nice girl} $\rightarrow$ nice (kind): \textit{That's very nice of you!}
+\end{exe}
+Pejoration
+\begin{itemize}
+\item Semantic change that results in a more negative meaning
+\end{itemize}
+\begin{exe}
+\ex pretty (cunning): \textit{He was a very pretty man.} $\rightarrow$ pretty (handsome): \textit{He's a pretty boy}
+\ex sinister (left): \textit{on your sinister side.} $\rightarrow$ sinister (evil): \textit{What a sinister deed!}
+\end{exe}
+\end{frame}
+
+\begin{frame}
+\frametitle{Types of Semantic Change}
+Generalization/Broadening/Widening
+\begin{itemize}
+\item Semantic change that results in a more general meaning
+\end{itemize}
+\begin{exe}
+\ex dog (large and strong breed) $\rightarrow$ dog (generic dog)
+\end{exe}
+Specialization/Narrowing
+\begin{itemize}
+\item Semantic change that results in a more restricted/narrow meaning
+\end{itemize}
+\begin{exe}
+\ex hound (generic dog) $\rightarrow$ hound (dog used for hunting): \textit{He's a pretty boy}
+\ex girl (ME young person) $\rightarrow$ girl (EME young female)
+\end{exe}
+\end{frame}
+
+\begin{frame}
+\frametitle{Types of Semantic Change}
+Metaphor
+\begin{itemize}
+\item Mapping from a source domain to a target domain
+\end{itemize}
+\begin{exe}
+\ex You fucking doughnut (Gordon Ramsey; Hell's kitchen)\\
+Mapping of source domain (pastries: not intelligent/sophisticated) $\rightarrow$ target domain (human being: not intelligent/sophisticated)
+\end{exe}
+Metonymy
+\begin{itemize}
+\item Mapping in which source and target domain are identical
+\end{itemize}
+\begin{exe}
+\ex pars pro toto (Part-for-Whole)\\
+The lier was caught telling the truth.
+\ex totum pro pars (Whole-for-Part)\\
+Liverpool hires Klopp.
+\end{exe}
+\end{frame}
+
+\begin{frame}
+\frametitle{Semantic Change: Case study on \textit{silly}}
+The word \textit{silly} underwent a pejoration from meaning \textit{blissful} or \textit{blessed} to \textit{ignorant}
+\begin{itemize}
+\item 1200 -- 1300: \textit{blissful} or \textit{blessed}\\
+\begin{footnotesize}
+\begin{exe}
+\ex Jhesu, blyssede [es] \textthorn at abbaye and cely es \textthorn at religione
+\glt Oh Jesus, blessed is that abbey and silly [i.e. blessed] is that religion
+\end{exe}
+\end{footnotesize}
+\item 1300: \textit{innocent} or \textit{harmless}\\
+\begin{footnotesize}
+\begin{exe}
+\ex 'Alas', he seide, ' \textthorn is seli best: \textthorn at no-\textthorn ing ne doth a-mis!'
+\glt 'Alas', he said, 'this silly [i.e. harmless] animal that does not do anything amiss!'
+\end{exe}
+\end{footnotesize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Semantic Change: Case study on \textit{silly}}
+The word \textit{silly} underwent a pejoration from meaning \textit{blissful} or \textit{blessed} to \textit{ignorant}
+\begin{itemize}
+\item 1350: \textit{deserving of pity and sympathy}\\
+\begin{footnotesize}
+\begin{exe}
+\ex Seli Scotland, that of helpe has great neide
+\glt Silly [i.e. pitiable] Scotland, which is in great need of help.
+\end{exe}
+\end{footnotesize}
+\item 1400: \textit{weak} or \textit{feeble}\\
+\begin{footnotesize}
+\begin{exe}
+\ex Here we see that a smal sillie Bird knoweth how to match with so great a Beast
+\end{exe}
+\end{footnotesize}
+\item 1400: \textit{ignorant} (cognitive abilities)\\
+\begin{footnotesize}
+\begin{exe}
+\ex The silly herdman all astonished stands
+\end{exe}
+\end{footnotesize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Semantic Change: Case study on \textit{silly}}
+The word \textit{silly} underwent a pejoration from meaning \textit{blissful} or \textit{blessed} to \textit{ignorant}
+\begin{itemize}
+\item 1500: \textit{foolish}\\
+\begin{footnotesize}
+\begin{exe}
+\ex In pride we speake it, or at least inwardlie thinke it, wee are not as those seely idiotes are
+\end{exe}
+\end{footnotesize}
+\end{itemize}
+\begin{center}
+\includegraphics[width=8cm]{D:/Uni/Lehre/images/silly.png}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Semantic Change: Case study on \textit{silly}}
+The word \textit{silly} underwent a pejoration from meaning \textit{blissful} or \textit{blessed} to \textit{ignorant}
+\begin{itemize}
+\item What we have here is a gradual process during which the meaning of the word \textit{silly} is re-analyzed repeatedly and the category boundaries shifted due to metaphorical extension in a chain-like manner from one meaning to a very similar one until the end-poles of that gradual process are quite distinct.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Mechanisms of Change}
+\begin{itemize}
+\item Are there patterns underlying semantic changes or is it rather a anything-goes situation?
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Mechanisms of Change}
+\begin{itemize}
+\item Are there patterns underlying semantic changes or is it rather a anything-goes situation?
+\item Subjectification (change from relatively objective meanings into increasingly subjective ones)
+\item Case study on \textit{very}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Mechanisms of Change: Case Study on \textit{very}}
+\begin{itemize}
+\item The word \textit{very} was introduced into English in the aftermath of the Normal Conquest when it meant \textit{true} or \textit{real} (Mod. French \textit{vray}, \textipa{/vre/}, still means exactly that)
+\item Related PDE words still have that meaning component ( \textit{verify}, \textit{veracity}, \textit{veritable})
+\item ME: \textit{a very knight} (a real/true knight that was either born or knighted $\leftarrow$ objective criterion)
+\item PDE: an very interesting area (subjective judgement)
+\item Intensifiers often derive from adjectives meaning true or real (\textit{right}, \textit{really}, \textit{real})
+\item Unidirectionality of subjectification\\
+objective $\rightarrow$ subjective (counter example: \textit{gay})
+\end{itemize}
+\end{frame}
+
+\subsection{Semantic Change; Exercises}
+\begin{frame}
+\begin{center}
+\textsc{Semantic Change; Exercises}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Exercise}
+\begin{itemize}
+\item Investigate the use of the word \textit{gay} in the COHA corpus.
+\item Select ten examples for each decade and determine whether the meaning is \textit{jolly}|\textit{lucky}|\textit{friendly} or \textit{homosexual} or unclear.
+\item Plot the ratio of the three alternatives over time.\item What does the plot show? Does it indicate a shift/change in meaning?
+\end{itemize}
+\end{frame}

@@ -1,1 +1,1289 @@
 # Language Variation and Change
+
+
+\section{Language Variation and Change}
+\begin{frame}
+\begin{center}
+\textsc{Language Variation and Change}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language Variation and Change}
+Today's topics and terms
+\begin{itemize}
+\item Varieties
+\item Ordered heterogeneity
+\item Apparent time and real time
+\item Dialectology
+\item Social factors in language change
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Sociolinguistics}
+\begin{itemize}
+\item Sociolinguistics
+\begin{itemize}
+\item \textquote{Its aim is to study the use of different forms or varieties of language and the social factors which determine them.}\citep[254]{kortmann2001linguistik}
+\end{itemize}
+\item Sociology of language
+\begin{itemize}
+\item \textquote{Its motivation for investigating language is to increase the ability to understand social structures.} \citep[254]{kortmann2001linguistik}
+\end{itemize}
+\end{itemize}
+\footnotesize{\Tree [.Sociolinguistics [.{geographical \\ (since 19th c.)
+} ] [.{anthropological \\ (since 1920s) } ] [.{sociological \\ (since 1960s)
+} ] ]}
+\end{frame}
+
+\begin{frame}
+\frametitle{Types of sociolinguistics}
+\begin{itemize}
+\item Geographical sociolinguistics/Dialectology (since 19th c.)
+\begin{itemize}
+\item studies the variation in the phonological and lexical system of NORMs (non-mobile, old, rural males) using questionnaires, word lists and tape recording; isoglosses (boundaries on language maps)
+\end{itemize}
+\item Anthropological sociolinguistics (since 1920s)
+\begin{itemize}
+\item studies the relationship between language, culture and thought; e.g. to which extent do linguistic structures determine thought and ultimately perception (Sapir-Whorf Hypothesis)
+\end{itemize}
+\item Sociological sociolinguistics (since 1960s)
+\begin{itemize}
+\item studies the variation of language use with regard to sociological variables such as gender, age, ethnicity, etc., by employing quantitative methodology (statistics)
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Types of varieties (lects)}
+\footnotesize{\Tree [.{Varieties (lects)} [.{Dialects \\ (geography)
+} ] [.{Sociolects \\ (social class) } ] [.{Registers \\ (situation)
+} ] ]}
+\begin{itemize}
+\item Dialects
+\begin{itemize}
+\item regionally restricted varieties (narrow sense)
+\item same as 'variety': social dialect (broad sense)
+\end{itemize}
+\item Sociolects
+\begin{itemize}
+\item motivated by socio-economic status, level of education, profession, age, ethnicity, sex, \dots (genderlect, jargon)
+\end{itemize}
+\item Register (only vocabulary; if also grammar: style)
+\begin{itemize}
+\item varieties determined by communicative situation
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Types of varieties (lects)}
+\begin{itemize}
+\item Varieties versus \textquote{the Standard}
+\begin{itemize}
+\item From a linguistic point of view, they are different, but not inferior, because the structural properties of any variety have the same value or quality as any other variety.
+\item Standard varieties, however, do enjoy higher prestige.
+\item Standard varieties are used in education, broadcast, written language, politics, courts,\dots
+\item Varieties become \textquote{standards} because of social and functional considerations NOT because of structural (linguistic) properties!
+\item Standard $\sim$ common structural core of various different lects.
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\footnotesize{\Tree [.{Types of varieties} [.{dependent on social \\ background of speaker} [.{regional \\ (diatropic)} dialect ] [.{social \\ (diastratic)
+} [.sociolect [.jargon ] [.genderlect ] [.{\dots} ] ] ] ] [.{dependent on \\ communicative situation} [.{functional \\ (diaphrastic)} [.{register and style} [.formal ] [.informal ] [.{\dots} ] ] ] ] ]
+}
+\tiny{\begin{textblock*}{2.5cm}(0.5cm,7cm)
+standard \\ (dependent on social as well as situational factors).
+\end{textblock*}
+}
+\footnotesize{
+\begin{textblock*}{3.5cm}(2cm,8.5cm)
+(hobby, profession)
+\end{textblock*}
+\begin{textblock*}{2.5cm}(4.85cm,8.5cm)
+(gender)
+\end{textblock*}
+\begin{textblock*}{2.5cm}(8cm,8cm)
+(e.g. slang)
+\end{textblock*}
+}
+\end{frame}
+
+\begin{frame}
+\frametitle{Sociolinguistics}
+\begin{itemize}
+\item Language communities are not homogeneous; instead heterogeneity determines everyday language use.
+\item Not only do different groups within language communities differ, but even each speaker has his or her own idiolect.
+\item According to the communicative situation and the speaker's expressive ability, all language users chose different language forms $-$ the different form of a language are called varieties (or lects).
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Sociolinguistics}
+\begin{itemize}
+\item One speaker social belongs to different groups, thus has many selves, i.e. exists within a diversity of co-existing group identities and uses language according to the role one fulfills.
+\item Sociolinguistics is the study of which factors (variables) determine which linguistic form and describe which features a variety possesses or lacks.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Types of Varieties}
+\begin{itemize}
+\item Group identities are formed by geographical, social and/or ethnic background, but other factors such as age, sex, profession and level of education also influence linguistic performance.
+\item Few words suffice to make us form inferences about a speaker's social background, level of education, etc and signal that he or she \textquote{wants} to belong/belong to a certain social group.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Types of Varieties}
+\begin{itemize}
+\item How do the terms \textquote{variety} and \textquote{dialect} relate to \textquote{standard} and \textquote{language}?
+\begin{itemize}
+\item Dialects and varieties are not inferior but they are of no higher value or quality than other forms of a language.
+\item Nevertheless, some (standard) varieties enjoy higher prestige.
+\item The characterization of one variety as the standard variety of a language is based on social and functional considerations, not on linguistic considerations.
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language and Prestige}
+Varieties differ with respect to the type of prestige they possess
+\begin{itemize}
+\item Overt prestige\\
+Generally accepted norm of speaking irrespective of other social factors (typically standard varieties carry overt prestige)
+\item Covert prestige \\
+Norm of speaking that is favored within certain social groups (regional varieties may enjoy covert prestige but also slang etc.)
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{The Standard}
+\begin{itemize}
+\item Standards are (functional) varieties that carry overt prestige and they are relatively homogeneous, i.e. there are few regional differences in the standard varieties of geographical varieties (Traditional Englishes vs. New Englishes).
+\item Due to its special functional role, the standard may be regarded as a fourth (main) type of variety.
+\item In all language communities, the standard variety is only spoken by a small number of speakers.
+\item The standard variety commonly serves as a reference variety if varieties are compared.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Ferdinand de Saussure (1857-1913)}
+\begin{itemize}
+\item Contemporary linguistics is, to a \\ large extend, still based on \\ concepts developed by him.
+\item His main ideas were published post \\ humously from his lecture materials \\ (1916) under the title \textquote{Cours de linguistique g{\'e}n{\'e}rale} (Course in General Linguistics).
+\item Shift away from a purely diachronic perspective to a focus on synchronic language use.
+\item Fostered the transition from the prescriptive period to descriptive approach towards language.
+\end{itemize}
+\begin{textblock*}{8cm}(9cm,1.5cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/saussure.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Ferdinand de Saussure (1857-1913)}
+\begin{itemize}
+\item Introduced the distinction between \dots
+\begin{itemize}
+\item Synchronic linguistics \\ (study of language at a certain time)
+\item Diachronic linguistics \\(study of language change over time)
+\end{itemize}
+\item He can be considered the founder of modern linguistics and his school of thought is referred to as \textquote{Structuralism} (he is still an important figure in structuralist thought)
+\item Structuralism views language as a system of arbitrary signs and focuses on this system while disregarding individual speakers and their individual grammars.
+\end{itemize}
+\begin{textblock*}{8cm}(9cm,1.5cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/saussure.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Variation and change}
+How do we bridge the gap between synchrony and diachrony?
+\begin{itemize}
+\item Some sections of society use more advanced language while other groups are more conservative in their language use
+\item With regard to phonetic/phonological innovations, the language of speakers stabilizes between the ages of 17 and 25. Older speakers rarely adopt new variants after that age.
+\item Variation among certain social groups is adopted by other groups.
+\item Innovations spread from an epicenter outward and diffuse through the lexicon and the speech community.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{The s-shaped curve}
+The s-shaped curve describes how innovations replace more traditional variants over time.
+\begin{center}
+\includegraphics[width=8cm]{D:/Uni/Lehre/images/sshapedcurve.png}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Patterns or Types of Change}
+\begin{tabularx}{\textwidth}{lll}
+\hline
+& \textbf{Individual} & \textbf{Community} \\
+\hline
+Stability & Stable & Stable \\
+Age-grading & Unstable & Stable \\
+Generational change & Stable & Unstable \\
+Communal change & Unstable & Unstable \\
+\hline
+\end{tabularx}
+\end{frame}
+
+\begin{frame}
+\frametitle{Patterns or Types of Change}
+Change from above
+\begin{itemize}
+\item Conscious adoption of innovations to signal prestige (to mark membership to a certain social milieu; has somewhat prescriptive and stylistic in character)
+\end{itemize}
+Change from below
+\begin{itemize}
+\item Unconscious adoption of innovations (speakers are not aware of using innovative features and often speak out against their use)
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Patterns or Types of Change}
+Diffusion
+\begin{itemize}
+\item through society
+\item through the lexicon
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Diffusion of Innovations}
+\begin{minipage}[t]{\linewidth}
+\begin{minipage}{.45\linewidth}
+\begin{tabular}{cccccccccc }
+& \multicolumn{9}{c}{young $\longleftrightarrow$ old} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{upper}}	
+& & & & & & & & & \\
+& & & & & & & & & \\
+& & & & & & & & & \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{$\longleftrightarrow$} }
+& & & & & & & & \\
+& \cellcolor{blue!10} & & & & & & \\
+& & & & & & & & & \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{working}}
+& & & & & & & & & \\
+& & & & & & & & & \\
+& & & & & & & & & \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+\begin{figure}
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/LangChang01.png}
+\end{figure}
+\end{minipage}
+\end{minipage}
+\end{frame}
+
+\begin{frame}
+\frametitle{Diffusion of Innovations}
+\begin{minipage}[t]{\linewidth}
+\begin{minipage}{.45\linewidth}
+\begin{tabular}{cccccccccc }
+& \multicolumn{9}{c}{young $\longleftrightarrow$ old} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{upper}}	
+& & & & & & & & & \\
+& & & & & & & & & \\
+& & & & & & & & & \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{$\longleftrightarrow$} }
+& \cellcolor{blue!10} & & & & & & & \\
+& \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & \\
+& \cellcolor{blue!10} & & & & & & & & \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{working}}
+& & & & & & & & & \\
+& & & & & & & & & \\
+& & & & & & & & & \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+\begin{figure}
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/LangChang02.png}
+\end{figure}
+\end{minipage}
+\end{minipage}
+\end{frame}
+
+\begin{frame}
+\frametitle{Diffusion of Innovations}
+\begin{minipage}[t]{\linewidth}
+\begin{minipage}{.45\linewidth}
+\begin{tabular}{cccccccccc }
+& \multicolumn{9}{c}{young $\longleftrightarrow$ old} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{upper}}	
+& & & & & & & & & \\
+& & & & & & & & & \\
+& \cellcolor{blue!10} & & & & & & & & \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{$\longleftrightarrow$} }
+& \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & & \\
+& \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & \\
+& \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & & & \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{working}}
+& \cellcolor{blue!10} & & & & & & & & \\
+& & & & & & & & & \\
+& & & & & & & & & \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+\begin{figure}
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/LangChang03.png}
+\end{figure}
+\end{minipage}
+\end{minipage}
+\end{frame}
+
+\begin{frame}
+\frametitle{Diffusion of Innovations}
+\begin{minipage}[t]{\linewidth}
+\begin{minipage}{.45\linewidth}
+\begin{tabular}{cccccccccc }
+& \multicolumn{9}{c}{young $\longleftrightarrow$ old} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{upper}}	
+& & & & & & & & & \\
+& \cellcolor{blue!10} & & & & & & & & \\
+& \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & & & \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{$\longleftrightarrow$} }
+& \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & \\
+& \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & \\
+& \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & & \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{working}}
+& \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & & & \\
+& \cellcolor{blue!10} & & & & & & & & \\
+& & & & & & & & & \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+\begin{figure}
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/LangChang04.png}
+\end{figure}
+\end{minipage}
+\end{minipage}
+\end{frame}
+
+\begin{frame}
+\frametitle{Diffusion of Innovations}
+\begin{minipage}[t]{\linewidth}
+\begin{minipage}{.45\linewidth}
+\begin{tabular}{cccccccccc }
+& \multicolumn{9}{c}{young $\longleftrightarrow$ old} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{upper}}	
+& \cellcolor{blue!10} & & & & & & & & \\
+& \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & & & \\
+& \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & & \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{$\longleftrightarrow$} }
+& \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & \\
+& \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & \\
+& \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{working}}
+& \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & & \\
+& \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & & & \\
+& \cellcolor{blue!10} & & & & & & & & \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+\begin{figure}
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/LangChang05.png}
+\end{figure}
+\end{minipage}
+\end{minipage}
+\end{frame}
+
+\begin{frame}
+\frametitle{Diffusion of Innovations}
+\begin{minipage}[t]{\linewidth}
+\begin{minipage}{.45\linewidth}
+\begin{tabular}{cccccccccc }
+& \multicolumn{9}{c}{young $\longleftrightarrow$ old} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{upper}}	
+& \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & & & \\
+& \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & & \\
+& \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{$\longleftrightarrow$} }
+& \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & \\
+& \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & \\
+& \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{working}}
+& \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & \\
+& \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & & \\
+& \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & & & \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+\begin{figure}
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/LangChang06.png}
+\end{figure}
+\end{minipage}
+\end{minipage}
+\end{frame}
+
+\begin{frame}
+\frametitle{Diffusion of Innovations}
+\begin{minipage}[t]{\linewidth}
+\begin{minipage}{.45\linewidth}
+\begin{tabular}{cccccccccc }
+& \multicolumn{9}{c}{young $\longleftrightarrow$ old} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{upper}}	
+& \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & & \\
+& \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & \\
+& \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{$\longleftrightarrow$} }
+& \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & \\
+& \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} \\
+& \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{working}}
+& \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & \\
+& \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & \\
+& \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & & \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+\begin{figure}
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/LangChang07.png}
+\end{figure}
+\end{minipage}
+\end{minipage}
+\end{frame}
+
+\begin{frame}
+\frametitle{Diffusion of Innovations}
+\begin{minipage}[t]{\linewidth}
+\begin{minipage}{.45\linewidth}
+\begin{tabular}{cccccccccc }
+& \multicolumn{9}{c}{young $\longleftrightarrow$ old} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{upper}}	
+& \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & \\
+& \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & \\
+& \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{$\longleftrightarrow$} }
+& \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & \\
+& \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} \\
+& \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{working}}
+& \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & \\
+& \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & \\
+& \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & & \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+\begin{figure}
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/LangChang08.png}
+\end{figure}
+\end{minipage}
+\end{minipage}
+\end{frame}
+
+\begin{frame}
+\frametitle{Diffusion of Innovations}
+\begin{minipage}[t]{\linewidth}
+\begin{minipage}{.45\linewidth}
+\begin{tabular}{cccccccccc }
+& \multicolumn{9}{c}{young $\longleftrightarrow$ old} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{upper}}	
+& \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & \\
+& \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & \\
+& \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{$\longleftrightarrow$} }
+& \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} \\
+& \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20}& \cellcolor{blue!10}\\
+& \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{working}}
+& \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & \\
+& \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & \\
+& \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & & \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+\begin{figure}
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/LangChang09.png}
+\end{figure}
+\end{minipage}
+\end{minipage}
+\end{frame}
+
+\begin{frame}
+\frametitle{Diffusion of Innovations}
+\begin{minipage}[t]{\linewidth}
+\begin{minipage}{.45\linewidth}
+\begin{tabular}{cccccccccc }
+& \multicolumn{9}{c}{young $\longleftrightarrow$ old} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{upper}}	
+& \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & \\
+& \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & \\
+& \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{$\longleftrightarrow$} }
+& \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} \\
+& \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20}\\
+& \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{working}}
+& \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & \\
+& \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & \\
+& \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & & \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+\begin{figure}
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/LangChang10.png}
+\end{figure}
+\end{minipage}
+\end{minipage}
+\end{frame}
+
+\begin{frame}
+\frametitle{Diffusion of Innovations}
+\begin{minipage}[t]{\linewidth}
+\begin{minipage}{.45\linewidth}
+\begin{tabular}{cccccccccc }
+& \multicolumn{9}{c}{young $\longleftrightarrow$ old} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{upper}}	
+& \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & \\
+& \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & \\
+& \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{$\longleftrightarrow$} }
+& \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30}\\
+& \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{working}}
+& \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} \\
+& \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & \\
+& \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & & \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+\begin{figure}
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/LangChang11.png}
+\end{figure}
+\end{minipage}
+\end{minipage}
+\end{frame}
+
+\begin{frame}
+\frametitle{Diffusion of Innovations}
+\begin{minipage}[t]{\linewidth}
+\begin{minipage}{.45\linewidth}
+\begin{tabular}{cccccccccc }
+& \multicolumn{9}{c}{young $\longleftrightarrow$ old} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{upper}}	
+& \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & \\
+& \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} \\
+& \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{$\longleftrightarrow$} }
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40}\\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{working}}
+& \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} \\
+& \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} \\
+& \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} & \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+\begin{figure}
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/LangChang12.png}
+\end{figure}
+\end{minipage}
+\end{minipage}
+\end{frame}
+
+\begin{frame}
+\frametitle{Diffusion of Innovations}
+\begin{minipage}[t]{\linewidth}
+\begin{minipage}{.45\linewidth}
+\begin{tabular}{cccccccccc }
+& \multicolumn{9}{c}{young $\longleftrightarrow$ old} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{upper}}	
+& \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} \\
+& \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{$\longleftrightarrow$} }
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50}\\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{working}}
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} \\
+& \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} \\
+& \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} & \cellcolor{blue!10} \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+\begin{figure}
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/LangChang13.png}
+\end{figure}
+\end{minipage}
+\end{minipage}
+\end{frame}
+
+\begin{frame}
+\frametitle{Diffusion of Innovations}
+\begin{minipage}[t]{\linewidth}
+\begin{minipage}{.45\linewidth}
+\begin{tabular}{cccccccccc }
+& \multicolumn{9}{c}{young $\longleftrightarrow$ old} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{upper}}	
+& \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{$\longleftrightarrow$} }
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60}\\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{working}}
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} \\
+& \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} & \cellcolor{blue!20} \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+\begin{figure}
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/LangChang14.png}
+\end{figure}
+\end{minipage}
+\end{minipage}
+\end{frame}
+
+\begin{frame}
+\frametitle{Diffusion of Innovations}
+\begin{minipage}[t]{\linewidth}
+\begin{minipage}{.45\linewidth}
+\begin{tabular}{cccccccccc }
+& \multicolumn{9}{c}{young $\longleftrightarrow$ old} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{upper}}	
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{$\longleftrightarrow$} }
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70}\\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{working}}
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} & \cellcolor{blue!30} \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+\begin{figure}
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/LangChang15.png}
+\end{figure}
+\end{minipage}
+\end{minipage}
+\end{frame}
+
+\begin{frame}
+\frametitle{Diffusion of Innovations}
+\begin{minipage}[t]{\linewidth}
+\begin{minipage}{.45\linewidth}
+\begin{tabular}{cccccccccc }
+& \multicolumn{9}{c}{young $\longleftrightarrow$ old} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{upper}}	
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{$\longleftrightarrow$} }
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80}\\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{working}}
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} & \cellcolor{blue!40} \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+\begin{figure}
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/LangChang16.png}
+\end{figure}
+\end{minipage}
+\end{minipage}
+\end{frame}
+
+\begin{frame}
+\frametitle{Diffusion of Innovations}
+\begin{minipage}[t]{\linewidth}
+\begin{minipage}{.45\linewidth}
+\begin{tabular}{cccccccccc }
+& \multicolumn{9}{c}{young $\longleftrightarrow$ old} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{upper}}	
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{$\longleftrightarrow$} }
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90}\\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{working}}
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} & \cellcolor{blue!50} \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+\begin{figure}
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/LangChang17.png}
+\end{figure}
+\end{minipage}
+\end{minipage}
+\end{frame}
+
+\begin{frame}
+\frametitle{Diffusion of Innovations}
+\begin{minipage}[t]{\linewidth}
+\begin{minipage}{.45\linewidth}
+\begin{tabular}{cccccccccc }
+& \multicolumn{9}{c}{young $\longleftrightarrow$ old} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{upper}}	
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{$\longleftrightarrow$} }
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100}\\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{working}}
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} & \cellcolor{blue!60} \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+\begin{figure}
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/LangChang18.png}
+\end{figure}
+\end{minipage}
+\end{minipage}
+\end{frame}
+
+\begin{frame}
+\frametitle{Diffusion of Innovations}
+\begin{minipage}[t]{\linewidth}
+\begin{minipage}{.45\linewidth}
+\begin{tabular}{cccccccccc }
+& \multicolumn{9}{c}{young $\longleftrightarrow$ old} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{upper}}	
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{$\longleftrightarrow$} }
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100}\\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{working}}
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} & \cellcolor{blue!70} \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+\begin{figure}
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/LangChang19.png}
+\end{figure}
+\end{minipage}
+\end{minipage}
+\end{frame}
+
+\begin{frame}
+\frametitle{Diffusion of Innovations}
+\begin{minipage}[t]{\linewidth}
+\begin{minipage}{.45\linewidth}
+\begin{tabular}{cccccccccc }
+& \multicolumn{9}{c}{young $\longleftrightarrow$ old} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{upper}}	
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{$\longleftrightarrow$} }
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100}\\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{working}}
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} & \cellcolor{blue!80} \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+\begin{figure}
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/LangChang20.png}
+\end{figure}
+\end{minipage}
+\end{minipage}
+\end{frame}
+
+\begin{frame}
+\frametitle{Diffusion of Innovations}
+\begin{minipage}[t]{\linewidth}
+\begin{minipage}{.45\linewidth}
+\begin{tabular}{cccccccccc }
+& \multicolumn{9}{c}{young $\longleftrightarrow$ old} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{upper}}	
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{$\longleftrightarrow$} }
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100}\\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{working}}
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!90} \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+\begin{figure}
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/LangChang21.png}
+\end{figure}
+\end{minipage}
+\end{minipage}
+\end{frame}
+
+\begin{frame}
+\frametitle{Diffusion of Innovations}
+\begin{minipage}[t]{\linewidth}
+\begin{minipage}{.45\linewidth}
+\begin{tabular}{cccccccccc }
+& \multicolumn{9}{c}{young $\longleftrightarrow$ old} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{upper}}	
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{$\longleftrightarrow$} }
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100}\\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} \\
+\multirow{3}{*} {\rotatebox[origin=c]{90}{working}}
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} \\
+& \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} & \cellcolor{blue!100} \\
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.45\linewidth}
+\begin{figure}
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/LangChang22.png}
+\end{figure}
+\end{minipage}
+\end{minipage}
+\end{frame}
+
+\begin{frame}
+\begin{center}
+\textsc{Language and age: apparent time and real time}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language and age: apparent time and real time}
+\includegraphics[width=12cm]{D:/Uni/Lehre/images/realtime.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language and age: apparent time and real time}
+\begin{itemize}
+\item Changes can be investigated by \dots
+\begin{itemize}
+\item taking and apparent time approach\\
+analyzing language use of different age groups at one point in time.
+\item taking a real time approach\\
+analyzing language use of the same age groups at different points in time.
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language and age: apparent time and real time}
+\begin{center}
+\includegraphics[width=9cm]{D:/Uni/Lehre/images/apparenttime.png}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Change in apparent and real time: syntactic diffusion of \textit{like} \citep[209]{darcy2005like}}
+\includegraphics[width=10cm]{D:/Uni/Lehre/images/DarcySyntacticDiffusion.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language and age}
+\begin{itemize}
+\item The willingness of speakers to conform to prestige norms differs with respect to the speaker's age
+\end{itemize}
+\begin{center}
+\includegraphics[width=8cm]{D:/Uni/Lehre/images/agepattern.jpg}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\begin{center}
+\textsc{Language and Space}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language and Space}
+\begin{itemize}
+\item Wave model 1\\
+Linguistic innovations spread from an epicenter outwards
+\item Wave model 2\\
+Model introduced as a reaction to the tree model in diachronic linguistics to account for a mixture of features encountered in many languages.
+\item Cascade/Density model\\
+Innovations spread to high-density/gravity centers first and then subsequently to lower density/gravity centers
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language and Space: Wave model 1}
+\includegraphics[width=7cm]{D:/Uni/Lehre/images/wavemodel2.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language and Space: Wave model 2}
+\includegraphics[width=8cm]{D:/Uni/Lehre/images/wave.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language and Space: Cascade/Density model}
+\begin{center}
+\includegraphics[width=9cm]{D:/Uni/Lehre/images/cascademodel.jpg}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language and Space}
+Dialect boundaries: Isoglosses
+\begin{itemize}
+\item Especially in traditional dialectology, linguists were interested in geographical differences in language use
+\item Data gathered form conservative language users (NORMs)
+\item Traditional dialectologists used interviews and questionnaires to detect which words were used in which region to establish dialect boundaries (isoglosses)
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\includegraphics[width=10cm]{D:/Uni/Lehre/images/soda.jpg}
+\end{frame}
+
+\begin{frame}
+\begin{center}
+\includegraphics[width=6cm]{D:/Uni/Lehre/images/EnglishDialects.jpg}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\begin{center}
+\includegraphics[width=8cm]{D:/Uni/Lehre/images/trauserspants.png}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\begin{center}
+\textsc{William Labov: The Social Stratification of English in New York City (1966)}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{William Labov: The Social Stratification of English in New York City (1966)}
+\begin{itemize}
+\item classic study on the social stratification of (r) in N.Y.C. department stores
+\item variants of the phonological variable (r) are either presence or absence of post-vocalic /r/ (in expressions such as \textit{fourth floor} /r/ was either pronounced or omitted)
+\item New York City speech had historically been a non-rhotic accent
+\item general attitude towards this accent feature was rather negative and the pronunciation of /r/ seems to have been reintroduced
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{William Labov: The Social Stratification of English in New York City (1966)}
+\begin{itemize}
+\item Labov studied the speech of employees in three department stores in Manhattan
+\begin{itemize}
+\item Saks Fifth Avenue (an expensive upper middle-class store)
+\item Macy’s (a less expensive middle-class store)
+\item S. Klein (a discount store frequented mainly by working-class New Yorkers)
+\end{itemize}
+\item Labov asked employees questions which should elicit the lexical items (‘fourth floor’) containing the desired accent feature:
+\begin{enumerate}
+\item \textquote{Where can I find the lamps?} Elicited answer: \textquote{fourth floor.}
+\item \textquote{Excuse me?} Answer: repeated and more careful.
+\end{enumerate}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{William Labov: The Social Stratification of English in New York City (1966)}
+\begin{itemize}
+\item Labov found that in New York City the pronunciation of /r/ occurred and its frequency of use depended on the speakers’ membership to particular socioeconomic status groups, i.e. social classes.
+\item Speakers with higher socioeconomic status pronounced /r/ more frequently than those with lower socioeconomic status.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\includegraphics[width=10cm]{D:/Uni/Lehre/images/classpatternlabov1.jpg}
+\end{frame}
+
+\begin{frame}
+\includegraphics[width=10cm]{D:/Uni/Lehre/images/classpatternlabov2.jpg}
+\end{frame}
+
+\begin{frame}
+\includegraphics[width=10cm]{D:/Uni/Lehre/images/classpatternlabov3.jpg}
+\end{frame}
+
+\begin{frame}
+\includegraphics[width=10cm]{D:/Uni/Lehre/images/classpatternlabov4.jpg}
+\end{frame}
+
+\begin{frame}
+\begin{center}
+\textsc{Sex/Gender and language change}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Sex/Gender and language change}
+\begin{itemize}
+\item Most of the linguistic changes in progress studied in the 2^{nd} half of the 20th century show a high degree of social differentiation. \citep{labov2002driving}
+\item Gender Paradox
+\begin{itemize}
+\item Women conform more closely than men to sociolinguistic norms that are overtly prescribed, but conform less than men when they are not. \citep[293]{labov2001principles}
+\end{itemize}
+\item Male-dominated changes form a \textquote{small minority}. \citep[284]{labov2001principles}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Sex/Gender and language change}
+\begin{itemize}
+\item Male-dominated changes form a \textquote{small minority}. \citep[284]{labov2001principles}
+\end{itemize}
+\includegraphics[width=9cm]{D:/Uni/Lehre/images/genderchange.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{The Gender Paradox}
+\begin{itemize}
+\item If a variant is not stigmatized (= prestige variants, socially accepted variants), women use it more than men of the same social class and age under the same circumstances.
+\item If a variant is stigmatized (= non-prestige variants, socially less favored variants), men use it more than women of the same social class and age under the same circumstances.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{The Gender Paradox: (ng) in Norwich}
+\begin{itemize}
+\item The gender pattern was illustrated by Trudgill (1974) for the variable (ng) in his study of Norwich speech. (ng) has two variants in Norwich: the standard pronunciation \textipa{/IN/} and the non-standard pronunciation \textipa{/@n/}.
+\item In each of the socioeconomic status groups men score higher than women in their use of the non-standard variant \textipa{/@n/}. The class pattern is also shown: the higher the socioeconomic status, the less \textipa{/@n/} is used.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{The Gender Paradox: (ng) in Norwich}
+\includegraphics[width=9cm]{D:/Uni/Lehre/images/genderpattern.jpg}
+\end{frame}
+
+\begin{frame}
+\begin{center}
+\textsc{Language and Social Networks}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language and Social Networks}
+\begin{itemize}
+\item The concept of the social network was introduced to the field of sociolinguistics by Lesley and James Milroy.
+\item Study of three working-class communities in Belfast, Northern Ireland (Belfast)
+\item Linguistic variation in these communities could be explained on the basis of differences in speakers’ social network structures.
+\item There was a correlation between linguistic variation and a speaker’s integration in a social network.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language and Social Networks}
+\begin{itemize}
+\item The patterns of contact between network members construct different types of network structures (How many members know each other and how well do they know each other?) which can reveal an individual’s integration into a network.
+\item The structure of a network can be determined by the factors of \textit{density} and \textit{multiplexity}.
+\begin{itemize}
+\item Density: Number or quantity of social ties within a network (= how many members know each other)
+\item Multiplexity: Quality of social ties (= how well the members know each other). Multiplexity refers to any factor or link that can deepen a social relationship, e.g. if two girls are not only sisters but also close friends and colleagues.
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language and Social Networks}
+\begin{center}
+\begin{textblock*}{5cm}(3cm, 2cm)
+\includegraphics[width=8cm]{D:/Uni/Lehre/images/highdensitynetwork.jpg}
+\end{textblock*}
+\begin{textblock*}{5cm}(3cm,5.5cm)
+\includegraphics[width=8cm]{D:/Uni/Lehre/images/lowdensitynetwork.jpg}
+\end{textblock*}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language and Social Networks}
+\begin{center}
+\begin{textblock*}{5cm}(1cm,3cm)
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/network2.jpg}
+\end{textblock*}
+\begin{textblock*}{5cm}(7cm,3.5cm)
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/network.png}
+\end{textblock*}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language and Social Networks}
+\begin{itemize}
+\item High-density, multiplex networks exhibit very conservative language use (resistance to change)
+\item Low-density, simplex networks exhibit very unstable language use (prone to change)
+\item Innovations are introduced through 2^{nd} order network members
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\begin{center}
+\textsc{Language and Identity\\
+Penelope Eckert: Jocks and Burnouts: Social Categories and Identity in the High School (1989)}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Penelope Eckert: Jocks and Burnouts: Social Categories and Identity in the High School (1989)}
+\begin{itemize}
+\item The fieldwork for this project took place between 1980 and 1982 and involved two years of ethnographic work in the Detroit suburb high-school "Belten High"and four other Detroit suburban schools.
+\item Hegemonic opposition between two social categories, referred to as \textit{jocks} and \textit{burnouts}.
+\begin{itemize}
+\item Jocks are a school-oriented community of practice, embodying middle class culture.
+\item Burnouts are a locally-oriented community of practice, embodying working class culture.
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Penelope Eckert: Jocks and Burnouts: Social Categories and Identity in the High School (1989)}
+\includegraphics[width=8cm]{D:/Uni/Lehre/images/jocks.png}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language and Social Networks}
+\begin{center}
+\begin{textblock*}{5cm}(1cm,3cm)
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/nerd.png}
+\end{textblock*}
+\begin{textblock*}{5cm}(7cm,3.5cm)
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/james.png}
+\end{textblock*}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Penelope Eckert: Jocks and Burnouts: Social Categories and Identity in the High School (1989)}
+\begin{itemize}
+\item Split between \textit{jocks} and \textit{burnouts} occurs in many schools across the country, sometimes corresponding to ethnic boundaries as well.
+\item Eckert found that people tend to speak more like their friends – those who shared social practices together – than others belonging in the same demographic category as them, i.e. social class.
+\item Variation correlates not only with category affiliation, but with practices associated with the category.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Penelope Eckert: Jocks and Burnouts: Social Categories and Identity in the High School (1989)}
+\begin{center}
+\textsc{If you had to observe the language of two people from two very different social groups (so don't share social practices), but from the same social demographic (age, ethnicity, class), what would you expect the result to be?}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\begin{center}
+\textsc{Language and Identity\\
+Natalie Schilling-Estes: Gender-based patterns of language variation in Ocracoke English (1999)}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language and Identity}
+\begin{itemize}
+\item An analysis of the use of \\
+the iconic island vowel in \\
+high tide \\
+(\textipa{/hOItOId/} vs \textipa{/haItaId/}) \\
+by gender and social group \\
+in Ocracoke showed a clear-cut pattern in which middle-aged men who belonged to a male-exclusive group (\textit{Poker Game Network}: PGN) and other social groups
+\begin{textblock*}{5cm}(6.5cm,2cm)
+\includegraphics[width=6cm]{D:/Uni/Lehre/images/ocracoke.png}
+\end{textblock*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language and Identity}
+\begin{itemize}
+\item PGN showed more extensive use of this vowel because they project a highly (traditionally) masculine image and pride themselves on speaking the authentic Ocracoke Brogue.
+\item Lowest rates among a middle-aged group of gay men for whom this vowel had little symbolic significance.
+\item Among adolescent speakers, women were much less likely to use this feature, since there is little real or symbolic capital for younger women.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\begin{center}
+\textsc{Language and Ethnic Identity\\
+William Labov: The case of the Black English trial in Ann
+Arbor (1982)}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Difference (different varieties) vs Deficiency (deficient acquisition of standard variety)}
+\begin{itemize}
+\item The Ann Arbor case was filed on behalf of parents whose children spoke AAVE, which parents and scholars contended was a distinct language with its own rules for pronunciation, grammar, and syntax.
+\item Parents were concerned with the procedures employed by the school district to assess their children, and the criteria used to place their children in special education, and in remedial education classes.
+\item The plaintiffs won by arguing that the procedures were inherently flawed and unfairly penalized their children because they failed to take into account differences in language and cultural background.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Ethnic identity: AAVE}
+\begin{itemize}
+\item There is a relationship between a speaker’s ethnic group membership and the use of language.
+\item By applying specific structural features a speaker’s linguistic variety can be used to express this speaker’s ethnic identity.
+\item The applied structural features identify one's ethnic variety. These features include numerous grammatical, syntactical, morphological, and phonological differences from the standard variety of a language.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Ethnic identity: AAVE}
+\begin{itemize}
+\item In sociolinguistic literature, African-American Vernacular English (AAVE) is often mentioned in this connection as a specific ethnic variety of American English.
+\item AAVE has characteristic structural features which distinguish this variety from Standard American English and other non-standard varieties of the language.
+\item One such structural feature concerns the occurrence of multiple negation (see figure below) which is not restricted to AAVE alone but is used in this variety with a high frequency.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Ethnic identity: AAVE}
+\begin{textblock*}{12cm}(2cm,2cm)
+\includegraphics[width=9cm]{D:/Uni/Lehre/images/ethnicpattern.jpg}
+\end{textblock*}
+\end{frame}

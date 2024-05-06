@@ -1,1 +1,391 @@
 # Early and Late Modern English
+
+\section{Early Modern English}
+\begin{frame}
+\begin{center}
+\textsc{Early Modern English}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Early Modern English (1500-1700)}
+Period of dramatic social, cultural, and political changes
+\begin{itemize}
+\item From feudalism to modern market society
+\item Age of Reformation (from Catholicism to Protestantism)
+\item Rise of the individual (Liberalism and Thomas Hobbes: form subject to citizen)
+\item Age of rationalism (The Scottish Enlightenment and John Locke: science versus superstition)
+\item First British Empire (American colonies and British East India Company)
+\item From rural agriculture to city trade
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{English Reformation}
+\begin{itemize}
+\item Caused by increased literacy (printing), \\
+the end of feudalism, Henry VIII break \\
+with Roman Catholicism, in 1532-1534 \\
+England established its own Church \\
+(Church of England)
+\item Church of England became markedly Protestant during the reign of Henry's son Edward VI (1537-1553) largely along lines laid down by Archbishop Thomas Cranmer.
+\end{itemize}
+\begin{textblock*}{10cm}(9.5cm,1.5cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/henryviii.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{English Reformation}
+\begin{itemize}
+\item Economic problems and social unrest \\
+erupted into riot in 1549. An expensive \\
+war with Scotland, at first successful, \\
+ended with military withdrawal from \\
+Scotland in exchange for peace
+\item Mary I, Queen of Scots (Bloody Mary) reversed the process and restored papal jurisdiction in 1553.
+\item Elisabeth I, permanently reasserted the royal supremacy in 1559
+\end{itemize}
+\begin{textblock*}{10cm}(9.5cm,1.5cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/maryi.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Liberalism and Scottish Enlightenment}
+Thomas Hobbes (1588-1679)
+\begin{itemize}
+\item Founder of social contract theory
+\item Individual rights to protect from \\
+governmental oppression (Leviathan)
+\item Natural state is \textit{bellum omnium contra omnes} \\
+$\rightarrow$ defer power to a sovereign authority who is responsible for law and order (absolute power)
+\item Royalist who believed in the equality of man
+\item Considered a closet atheist
+\end{itemize}
+\begin{textblock*}{10cm}(9.8cm,1.5cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/thomashobbes.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Liberalism and Scottish Enlightenment}
+John Locke (1632-1704)
+\begin{itemize}
+\item Liberalism as a political philosophy
+\item Theoretical basis for the US Declaration \\
+of Independence
+\item Separation of powers and revolution as an obligation under unjust rule
+\item Proclaimed the mind as \textit{tabula rasa} (blank slate)
+\item Property is a natural right as it is derived from labor
+\end{itemize}
+\begin{textblock*}{10cm}(9.8cm,1.3cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/johnlocke.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Great English Vowel Shift}
+\begin{itemize}
+\item Major change of the English \\
+vocalic system that started \\
+around 1450 and lasted until \\
+approximately 1750.
+\item Affected all long vowels
+\begin{textblock*}{10cm}(7.5cm,2.5cm)
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/gevs.png}
+\end{textblock*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{The Great English Vowel Shift}
+\begin{itemize}
+\item Long vowels
+\begin{itemize}
+\item raised or diphthongized
+\item long \textipa{[o:]} in ME fode (food) \\ was raised to \textipa{[u:]},
+\item long \textipa{[i:]} in ME child and lyf (life) \\ was diphthongized to\textipa{[ai]}.
+\end{itemize}
+\item Other effects
+\begin{itemize}
+\item Short high back rounded \\ vowel \textipa{[U]} was rounded and \\ centralized to \textipa{[2]}; \\ but \textipa{[bUt]} became \textipa{[b2t]}.
+\end{itemize}
+\begin{textblock*}{10cm}(8.2cm,3cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/gevs.png}
+\end{textblock*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{The Great English Vowel Shift}
+\begin{tabularx}{\textwidth}{l ccc}
+\hline
+\textbf{Vowel} & \textbf{Chaucer} & \textbf{Translation} & \textbf{Shakespeare} \\
+& (1343-1400) & & (1564-1616)\\
+\hline
+\textipa{/i:/} & \textipa{[fi:f]} & five & \textipa{[faIf]} \\
+\textipa{/e:/} & \textipa{[me:d@]} & meat & \textipa{[mi:t]} \\
+\textipa{/E:/} & \textipa{[klE:n@]} & clean & \textipa{[kle:n]} \\
+\textipa{/a:/} & \textipa{[na:m@]} & name & \textipa{[ne:m]} \\
+\textipa{/O:/} & \textipa{[gO:t@]} & goat & \textipa{[go:t]} \\
+\textipa{/o:/} & \textipa{[{\*r}o:t@]} & root & \textipa{[{\*r}u:t]} \\
+\textipa{/u:/} & \textipa{[du:n]} & down & \textipa{[daun]} \\
+\hline
+\end{tabularx}
+\end{frame}
+
+\begin{frame}
+\frametitle{Elizabeth I of England (1533-1603)}
+\begin{itemize}
+\item defeat of the Spanish Armada (1588) \\
+$\rightarrow$ enabled the rise of the British Empire
+\item knighted Francis Drake (pirate who led \\
+raids against the Spanish and circum-\\
+navigated the globe 1577-1580)
+\item established the Church of England, shaped \\
+national identity, and consolidated Protestantism
+\item refused to punish Catholic practices (important to maintain peace in Ireland, England, and Scotland)
+\item recognized that a monarch ruled by popular consent and required parliamentary advice and support
+\end{itemize}
+\begin{textblock*}{10cm}(9.5cm,1.5cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/elizabethi.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{British expansion}
+\begin{itemize}
+\item Public plays become increasingly popular
+\item Increase of the vocabulary due to \\
+large-scale borrowing from Latin, \\
+Greek, French, and other European tongues
+\item First English-language dictionaries
+\item Most important literary influences \\
+on Early Modern English:
+\begin{itemize}
+\item William Shakespeare (1564-1616)
+\item Christopher Marlowe (1586–1593)
+\item King James Bible (1611)
+\end{itemize}
+\end{itemize}
+\begin{textblock*}{10cm}(9.5cm,1.5cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/shakespeare.png}
+\end{textblock*}
+\begin{textblock*}{10cm}(9.5cm,4.8cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/bible.png}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Renaissance}
+\begin{itemize}
+\item Renewed interest in classical texts and \\
+languages.
+\item Enrichment of language and ideas through \\
+explorations, colonization, findings, and \\
+inventions in early forms of empirical \\
+science.
+\item While some viewed the enrichment of English by foreign vocabulary fruitful, others objected against this borrowing and spoke for a \textquote{pure} and \textquote{unmixed} English without \textit{inkorn terms}.
+\end{itemize}
+\begin{textblock*}{10cm}(9.3cm,1.3cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/davinci.png}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Age of Discovery}
+\begin{itemize}
+\item During the 15^{th} and 16^{th} centuries, \\
+Portugal and Spain pioneered European \\
+exploration of the globe and established \\
+large overseas empires.
+\item Ferdinand Magellan (1480-1521) \\
+Portuguese explorer who organized the Spanish expedition to the East Indies (1519-1522), resulting in the first circumnavigation of the Earth, completed by Juan Sebastián Elcano.
+\item Envious of the great wealth oversees empires generated, England, France, and the Netherlands established colonies and trade networks in the Americas and Asia
+\end{itemize}
+\begin{textblock*}{10cm}(9.5cm,1.3cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/magellan.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{British Empire (Origins)}
+\begin{itemize}
+\item Plantations of Ireland \\
+(1556-1620): settlement \\
+of Ireland with \\
+Protestants from \\
+England and Scotland
+\item In 1578, Elizabeth I \\
+granted patents to traders to discover and explore oversea trade (raids and exploit of other colonial powers)
+\item When James VI (1566-1625) ascended the thrown in 1603, the focus shifted to English settlement of North America and the smaller islands of the Caribbean
+\end{itemize}
+\begin{textblock*}{10cm}(6cm,2.2cm)
+\includegraphics[width=6.5cm]{D:/Uni/Lehre/images/britishempire.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{The English Civil War (1642-1651)}
+\begin{itemize}
+\item Royalists against the Parliament
+\item Charles I (1600-1649) sought to \\
+reform and unite the Scottish church \\
+(catholic) with the church of England
+\item Lead miners demanded tax reduction to \\
+fight for Charles (Charles accepted)
+\item Charles lost, was tried for treason, and \\
+beheaded in 1649
+\item After Charles death, the \textit{Commonwealth of} \\
+\textit{England} ruled England (1649-53, 1659-60)
+\item In-between Oliver Cromwell (1599-1658) \\
+ruled the English republic as a protestant \\
+military dictator (Lord Protector)
+\end{itemize}
+\begin{textblock*}{10cm}(9.5cm,1.3cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/charlesi.jpg}
+\end{textblock*}
+\begin{textblock*}{10cm}(9.5cm,4.8cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/cromwell.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{British Empire (American colonies)}
+\begin{itemize}
+\item 1607: Jamestown (VA) founded \\
+by the \textit{London Company} (later \\
+\textit{Virginia Company})
+\item 1610: permanent settlement in \\
+Newfoundland by the \textit{Society of} \\
+\textit{Merchant Venturers }
+\item 1612: St. George's, Bermuda, was founded by the \textit{Virginia Company}
+\item 1664: England took over the Dutch colony of New Netherland (renamed Province of New York) and New Sweden (now Delaware), which later became part of Pennsylvania after that was established in 1680.
+\end{itemize}
+\begin{textblock*}{10cm}(7.5cm,2.2cm)
+\includegraphics[width=5cm]{D:/Uni/Lehre/images/americancolonies.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Social change}
+\begin{itemize}
+\item Growing oversees trade created a new \\
+super-rich merchants class
+\item Wealth based on imports of tobacco, tea, \\
+spices, etc.
+\end{itemize}
+\begin{textblock*}{10cm}(9.5cm,1.3cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/charlesi.jpg}
+\end{textblock*}
+\end{frame}
+
+\section{Late Modern English}
+\begin{frame}
+\begin{center}
+\textsc{Late Modern English (1700 - \dots)}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Late Modern English (1700 - \dots)}
+\begin{itemize}
+\item By 1700 English has (nearly) reached \\ its present form.
+\item Increasing standardization and prescriptivism
+\item Samuel Johnson's \textit{Dictionary of the English Language}
+\item Present Day English is considered to be one kind of Modern English.
+\item Modern English is analytic (Modern English period is the \textquote{period of lost inflection}) as syntactic relations are indicated via a relatively fixed word order.
+\end{itemize}
+\begin{textblock*}{10cm}(8.3cm,1.3cm)
+\includegraphics[width=4cm]{D:/Uni/Lehre/images/dictionary.png}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Technological marvels}
+\begin{itemize}
+\item In 1712, Thomas Newcomen constructed the first working steam engine which in the following century transformed the British economy and life.
+\end{itemize}
+\begin{textblock*}{10cm}(9.5cm,1.3cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/steamengine.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Late Modern English (1700 - \dots)}
+Adam Smith (1723-1790) and Capitalism
+\begin{itemize}
+\item Invisible hand metaphor to explain the \\
+underlying principle of free market \\
+economies
+\item Supply and demand as regulating principles
+\end{itemize}
+David Hume (1711-1776) and Empiricism
+\begin{itemize}
+\item Ideas and knowledge stems from experience \\
+not from innate ideas and divine revelation\\
+\item Human rationality versus theological \\
+dogmatism
+\end{itemize}
+\begin{textblock*}{10cm}(9.5cm,1.3cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/adamsmith.jpg}
+\end{textblock*}
+\begin{textblock*}{10cm}(9.5cm,5cm)
+\includegraphics[width=3cm]{D:/Uni/Lehre/images/davidhume.jpg}
+\end{textblock*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Late Modern English (1700 - \dots)}
+\begin{itemize}
+\item ModE's lexicon can be assigned to three different origins:
+\begin{itemize}
+\item Germanic words that survived since OE
+\item Vocabulary adopted from Latin, French and other European tongues
+\item Words that have their origin in the geographical expansion of the British Empire
+\end{itemize}
+\item Pronunciation is much the same as in EmodE
+\item Rise of Received Pronunciation in the early 20^{th} century
+\item Received Pronunciation is an accent that, concerning linguistics, serves as reference in phonetics and phonology.
+\item At the beginning of the 21^{st} century, the regional varieties exhibit an increase in independence and begin more and more to form their own \textquote{standards}.
+\end{itemize}
+\end{frame}
+
+\subsection{The language of learned and polite persons}
+\begin{frame}
+\begin{center}
+\textsc{The language of learned and polite persons}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language and Science}
+\begin{itemize}
+\item New scientific outlook $\rightarrow$ foundation of the Royal Society
+\item Observations about English
+\begin{itemize}
+\item Richard Hodges
+\begin{itemize}
+\item \textquote{Most plain directions for true writing} (1653)
+\item Study of homophones
+\item Aim was to save time in reading the scriptures
+\end{itemize}
+\item Technical studies of speech
+\begin{itemize}
+\item Owen Price: \textquote{The vocal organ} (1665) $\rightarrow$ teaching laymen spelling and pronunciation
+\item William Holder \textquote{Elements of speech} (1669) $\rightarrow$ early account of phonetics
+\item John Ray \textquote{Collection of English words} (1691) $\rightarrow$ different catalogs for North and South
+\end{itemize}
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Language and Science}
+\begin{itemize}
+\item Possibility of a universal language due to need for an international language to replace Latin
+\item After the Restoration: literacy = \textquote{duty of the industrious student} (1709)
+\item Attempts to apply scientific thinking to language failed and old authoritarian tradition remained
+\end{itemize}
+\end{frame}
