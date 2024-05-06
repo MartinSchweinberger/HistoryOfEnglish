@@ -3,6 +3,7 @@ title: "History of English"
 author: "Martin Schweinberger"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
+  - \usepackage{gb4e} \noautomath
 ---
 
 # Course information
@@ -41,6 +42,36 @@ Each session will follow this (approximate) template:
   + 15-30 min lecture  
   + 10-15 min presentation
 
+
+## Coursebook and Pensum
+
+The main coursebook we will be using in class is the following:
+
+- Galloway, Nicola and Rose, Heath. 2015. *Introducing global Englishes*. Routledge.
+  
+You should purchase this book: it has been ordered at Akademika bookshop.
+
+The other readings below, as well as possible additional material, will be made available electronically on Blackboard throughout the course (either for download or as links to e-readings from the library):
+
+- Altbach, Philip G. (2007). The Imperial Tongue: English as the Dominating Academic Language. *Economic and Political Weekly*, September 8, 2007.
+
+- Dunstan, Stephany B. and Jaeger, Audrey J. (2015). Dialect and influences on the academic experiences of college students. *The Journal of Higher Education* 86(5):776-803.
+
+- Fonyuy, K. E. (2010). The rush for English education in urban Cameroon: Sociolinguistic implications and prospects. *English Today*, 26(1), 34-42.
+
+- Kerswill, Paul (2014). The objectification of ‘Jafaican’: The discoursal embedding of Multicultural London English in the British media. In Androutsopoulos, Jannis (ed.), *The media and sociolinguistic change*, 428-55. Berlin: Walter de Gruyter.
+
+- Momma, Haruko and Matto, Michael. (eds.) 2008. *A companion to the history of the English language*. Malden, MA: Blackwell.
+
+  - Chapter 50: Ziegler, Mary B. Migration and motivation in the development of African American Vernacular English. 509-520.
+
+  - Chapter 54: Mufwene, Salikoko S. Creoles and pidgins. 553-566.
+
+- Rickford, John R. and McWhorter, John. 1998. Language contact and language generation: Pidgins and creoles. In Coulmas, F. (ed) *The Handbook of Sociolinguistics*. Oxford: Blackwell. 238-256.
+
+- **Svartvik, Jan and Leech, Geoffrey. 2016. *English: one tongue, many voices*. Basingstoke: Palgrave Macmillan. Chapters 2 and 3** and pp. 101-118.
+
+
 ## Recommendations
 Media  
 
@@ -53,13 +84,9 @@ Media
 
 Literature  
 
-  + Course books  
-    + Knowles, Gerry. 1997. A Cultural History of the English Language. Arnold: London.  
-    + Barber, Charles, Beal, Joan C. & Shaw, Philip A. 2009. The English language: A historical introduction. Cambridge: Cambridge University Press.  
-    
-  + Other literature
-    
-    + Baugh and Cable (1993), Brinton and Arnovick (2006), van Gelderen (2006), Hogg and Denison (2006), (Deutscher 2010), and Crystal (2006).
+  + Knowles, Gerry. 1997. A Cultural History of the English Language. Arnold: London.  
+  + Barber, Charles, Beal, Joan C. & Shaw, Philip A. 2009. The English language: A historical introduction. Cambridge: Cambridge University Press.  
+  + Baugh and Cable (1993), Brinton and Arnovick (2006), van Gelderen (2006), Hogg and Denison (2006), (Deutscher 2010), and Crystal (2006).
 
 ## Course plan (approximate)
 
@@ -86,4 +113,28 @@ they might be different:
 1. house : houses
 2. mouse : mice
 
+1. Pre-English/Proto-Germanic: Starting Point
+   - husa! huso
+   - mus! musiz
+   
+2. Pre-English: I-Mutation, Final Syllables Weakened
+   - husa! huso
+   - mus! mysi(z)
+   
+3. Early Old English: Loss of Final Syllables
+   - hus! hus
+   - mus! mys
+   
+4. Late Old English: Unrounding of /y/ to /i/
+   - hus! hus
+   - mus! mis
 
+5. Middle/Early Modern English
+   - Great Vowel Shift: Diphthongisation of /u:/ and /i:/ to /@u/ and /@i/; house starts getting an explicit plural
+     - h@us ! h@us(en/es)
+     - m@us ! m@is
+   
+6. Modern English
+   - Diphthongisation continued to /aU, aI/; alternative plurals of house disappear, leaving just one, regular plural
+     - haUs <house> ! haUz@s <houses>
+     - maUs <mouse> ! maIs <mice>

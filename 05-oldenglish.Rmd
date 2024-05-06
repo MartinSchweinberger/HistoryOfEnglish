@@ -1,1 +1,366 @@
-# Old English
+# Old English  (450-1150)
+
+
+## Germanic tribes arrive in huge numbers England between 446 and 454
+- According to Bede, a monk from Jarrow, writing in the late 8^{th} century, they belonged to three tribes, Angles, Saxons, and Jutes. (It is highly likely that Frisians were also part of that group)
+- The Germanic tribes forced the Celts to move to the West, burned down the Roman towns and destroyed the civilization as had been attained under Roman influence.
+
+![Angles-Saxons-Jutes-Frisians](images/Angles-Saxons-Jutes-Frisians.png)
+
+Various tribes combined to form small kingdoms; seven of these were Northumbria, Mercia, East Anglia, Kent, Essex, Sussex, and Wessex (the Anglo-Saxon Heptarchy)
+- Germanic roots preserved in place names: ing (Reading) = people of, ham (Nottingham) = Farm, ton (Wigton) = fortified place, etc.
+- Germanic word stock in basic terms/words: is: is, have: habban, man: mann, woman: wif, child: cild, house: hus, food: mete, eat: etan, drink: drincan, fight: feohtan, etc.
+
+## Old English Literature
+- Anglo-Saxon literature is the richest and most significant of any preserved among the early Germanic peoples.
+- Anglo-Saxons poets sang of the things they most deeply experienced: war, exile, the sea, ruined cities, and minstrel life
+- More than half of Anglo-Saxon poetry is concerned with Christian subjects.
+
+![Old English Literature](images/oldenglishliterature.jpg)
+![Beowulf](images/beowulf2.jpg)
+
+
+## Old English Writing
+- The first written records used futhorc (runic alphabet)
+- Only after 700 appeared the first texts written in Roman alphabet
+- The Roman alphabet was not designed to represent OE sounds!
+- The most important piece of Old English poetry is the epic of the Geatish warrior *Beowulf* who slays the monster Grindel and dies during a fight against a dragon.
+
+![Runes](images/runes.png)
+![Beowulf](images/beowulf.jpg)
+
+
+## Old English Consonants
+
+| Orthography | IPA | Pronunciation | Example     |
+|-------------|-----|---------------|-------------|
+| $<$sc$>$  | [ʒ] | scip          | 'ship'      |
+|             | [sk] | ascian        | 'ask'       |
+| $<$c$>$         | [k] | cneo          | 'knee'      |
+|             | [tʃ] | cild, rice   | 'child', 'kingdom' |
+| $<$h$>$         | [h] | hus, hwæt     | 'house', 'what' |
+|             | [x] | niht          | 'night'     |
+|             | [ɣ] | leoht, hlaf   | 'light', 'loaf' |
+| $<$g$>$         | [ɡ] | gast          | 'ghost'     |
+|             | [j] | gif           | 'if'        |
+|             | [j] | dagas         | 'days'      |
+| $<$cg$>$        | [ɡɡ] | docga        | 'dog'       |
+|             | [dj] | ecg          | 'edge'      |
+| Fricatives  | *complementary distribution:* | | |
+|             | *intervocalic – voiced; word-final – voiceless* | | |
+| $<$f$>$         | [f] | fot           | 'foot'      |
+|             | [v] | heofon        | 'heaven'    |
+| $<$s$>$         | [s] | swa, mus     | 'so', 'mouse' |
+|             | [z] | risan        | 'rise'      |
+| $<$r$>$         | *Alveolar Trill* | |             |
+| Geminates   | *pronounced long* | |             |
+
+- As a Germanic language, English shares certain characteristics common to all Germanic languages
+  - "Weak" and "strong" declension of adjectives: ein schöner Mann : der schöne Mann
+  - Distinctive types of verb conjugation:
+    - Present: gehe, gehst, geht
+    - Past: ging, gingst
+  - Stressing the first or the root syllable of words: "kriegerrisch", "bekriegen", "kriegen", etc.
+
+
+## Old English Dialects
+- Four major dialects
+  - West Saxon (most texts that were preserved are written in West Saxon)
+  - Kentish
+  - Anglian
+  - Mercian (plus Northumbrian)
+
+![West Saxon](images/westsaxon.png)
+
+
+- Entire word stock in Old English approximately 25,000 words (today 750,000 words but average educated person's active word stock approximately 10,000 words)
+- Determiners, adjectives, and nouns were fully inflected:
+  - The king : se cyning
+  - of the king : thaes cyninges
+  - to the king : thaem cyninge
+- Word order did not matter (as much):
+  - Se cyning meteth thone biscop = Thone biscop meteth se cyning
+  - The king meets the bishop ≠ The bishop meets the king
+
+![Anglo Invasion](images/angloinvasion.png)
+
+- Germanic tribes were pagans as we can still detect in English weekdays (Woden: Wednesday, Thor: Thursday, Fria: Friday).
+- From the sixth to the eighth century the Anglo-Saxons were converted to Christianity.
+- Latin (language of religion) came to influence English
+  - angel, bishop, candle, church, martyr, priest, school, ...
+
+![Old English Monastery](images/oldenglishmonestary.jpg)
+![Old English Monk](images/oldenglishmonk.jpg)
+
+### Characteristics of Old English
+
+- Old English differs from Modern English on all levels.
+- Old English contains remarkably few words derived from Latin and almost none derived from French (which make up half of the words now in common use).
+- The Old English vocabulary is almost entirely Germanic.
+- 85 percent of Old English words are no longer in use today (compensated by adoption of French during Middle English: ger. lyft $\rightarrow$ fr. aire)
+- Old English was synthetic $\rightarrow$ syntactic relations are indicated via inflection rather than word order
+
+
+|              | Stops        | Affricate    | Fricative   | Nasal        | Liquids      | Glides       |
+|--------------|--------------|--------------|-------------|--------------|--------------|--------------|
+| Bilabial     | /p/ /p:/     |              |             | /m/ /m:/     |              | /w/          |
+|              | /b/ /b:/     |              |             |              |              |              |
+| Labiodental  |              |              | /f/ /f:/    |              |              |              |
+| Dental       |              |              | /T/ /T:/    | /n/ /n:/     |              |              |
+| Alveolar     | /t/ /t:/     |              | /s/ /s:/    |              | /l/ /l:/     |              |
+|              | /d/ /d:/     |              |             |              | /r/ /r:/     |              |
+| Palato-alveolar |          | /tS/ /tS:/   |             |              |              |              |
+|              |              | /dZ/ /dZ:/   |             |              |              |              |
+| Palatal      |              |              |             |              |              | /j/          |
+| Velar        | /k/ /k:/     |              | /x/ /x:/    |              |              |              |
+|              | /g g:/       |              |             |              |              |              |
+
+
+| Phoneme   | Trans.       | Writing       | Gloss       |
+|-----------|--------------|---------------|-------------|
+| /p/       | /pre:Ast/    | /pr\=east/    | priest      |
+| /b/       | /beran/      | /beran/       | to carry    |
+| /m/       | /morgen/     | /morgen/      | morning     |
+| /f/       | /faran/      | /faran/       | to travel   |
+| /T/       | /so:T/       | /s\=o\textthorn/ | truth       |
+| /n/       | /ni:we/      | /n\=iwe/      | new         |
+| /t/       | /to:d{\ae}g/ | /t\=od{\ae}g/ | today       |
+| /d/       | /d{\ae}g/    | /d{\ae}g/     | day         |
+
+| Phoneme   | Trans.    | Writing    | Gloss     |
+|-----------|-----------|------------|-----------|
+| /p:/      | /Up:e/    | uppe       | above     |
+| /b:/      | /nab:an/  | nabban     | to not have |
+| /m:/      | /tem:an/  | temman     | to tame   |
+| /w/       | /wri:tan/ | /wr\=itan/ | to write  |
+| /f:/      | /of:rian/ | offrian    | to offer  |
+| /T:/      | /mo:Te/   | /mo\textthorn \textthorn e/ | moth      |
+| /n:/      | /ben:/    | /benn/     | wound     |
+| /t:/      | /sit:an/  | /sittan/   | to sit    |
+| /d:/      | /Trid:a/  | /Dridda/   | third     |
+
+
+## Nouns
+
+- Nouns indicated number, gender, and case.
+- Case endings were either strong or weak
+- Noun gender did not depend on biological sex.
+
+
+### Strong declension
+
+| Case        | Masculine  |            | Neuter |         | Feminine |          |
+|-------------|------------|------------|--------|---------|----------|----------|
+|             | Singular   | Plural     | Singular | Plural  | Singular | Plural   |
+| Nominative  | stān       | stān-as    | sċip    | sċip-u  | ġief-u   | ġief-a   |
+| Accusative  | stān       | stān-as    | sċip    | sċip-u  | ġief-e   | ġief-a   |
+| Genitive    | stān-es    | stān-a     | sċip-es | sċip-a   | ġief-e   | ġief-a   |
+| Dative      | stān-e     | stān-um    | sċip-e  | sċip-um  | ġief-e   | ġief-um  |
+
+### Weak declension
+
+| Case        | Masculine  |            | Neuter |         | Feminine |          |
+|-------------|------------|------------|--------|---------|----------|----------|
+|             | Singular   | Plural     | Singular | Plural  | Singular | Plural   |
+| Nominative  | nam-a      | nam-an     | ēag-e  | ēag-an  | tung-e   | tung-an  |
+| Accusative  | nam-an     | nam-an     | ēag-e  | ēag-an  | tung-an  | tung-an  |
+| Genitive    | nam-an     | nam-ena    | ēag-an | ēag-ena | tung-an  | tung-ena |
+| Dative      | nam-an     | nam-um     | ēag-an | ēag-um  | tung-an  | tung-um  |
+
+
+## Adjectives
+
+- Adjectives indicated number, gender, and case.
+- Case endings were either strong or weak.
+- Adjectives had both comparative and superlative forms.
+
+| Base       | Comparative | Superlative |
+|------------|-------------|-------------|
+| wīs (wise) | wīsra (wiser) | wīsost (wisest) |
+| hefiġ (heavy) | hefiġra (heavier) | hefigost (heaviest) |
+| eald (old) | ieldra (older) | (ieldest) |
+| strang (strong) | strengra (stronger) | strengest (strongest) |
+| gōd (good) | betera (better) | betst (best) |
+| lytel (little) | læssa (smaller) | læst (smallest) |
+
+### Strong declension
+
+| Case        | Masculine  |            | Neuter |         | Feminine |          |
+|-------------|------------|------------|--------|---------|----------|----------|
+|             | Singular   | Plural     | Singular | Plural  | Singular | Plural   |
+| Nominative  | glæd       | glade      | glæd   | gladu   | gladu    | glade    |
+| Accusative  | glædne     | glade      | glæd   | gladu   | glade    | glade    |
+| Genitive    | glades     | glædra     | glades | glædra  | glædre   | glædra   |
+| Dative      | gladum     | gladum     | gladum | gladum  | glædre   | gladum   |
+| Instrumental| glade      | gladum     | glade  | gladum  | glædre   | gladum   |
+
+
+### Weak declension
+
+| Case        | Masculine  | Neuter    | Feminine  |
+|-------------|------------|-----------|-----------|
+| Nominative  | gōd-a      | gōd-e     | gōd-e     |
+| Accusative  | gōd-an     | gōd-e     | gōd-an    |
+| Genitive    | gōd-an     | gōd-an    | gōd-an    |
+| Dative      | gōd-an     | gōd-an    | gōd-an    |
+| Instrumental| gōd-an     | gōd-an    | gōd-an    |
+
+
+## Articles
+
+- Old English possessed a fully inflected definite article (same as in German).
+- Indefinite articles were rarely used for at least two reasons:
+  - the case system fulfilled the role of modern indefinite articles and thus there was no need for them
+  - as "a" and "an" still possessed their number meaning and were thus inflected like adjectives
+
+the/that/those
+| Case        | Masculine | Feminine | Neuter | Plural   |
+|-------------|-----------|----------|--------|----------|
+| Nominative  | se        | þæt      | sēo    | þā       |
+| Accusative  | þone      | þæt      | þā     | þā       |
+| Genitive    | þæs      | þæs      | þǣre  | þāra, þǣra|
+| Dative      | þǣm      | þǣm      | þǣre  | þǣm, þām |
+| Instrumental| þȳ, þon   | þȳ, þon   | *þāra | *þǣm    |
+
+this/these/yon
+| Case        | Masculine | Feminine | Neuter | Plural  |
+|-------------|-----------|----------|--------|---------|
+| Nominative  | þes       | þis      | þēos    | þās      |
+| Accusative  | þisne     | þis      | þās     | þās      |
+| Genitive    | þisses    | þisses   | þisse, þisre | þisra  |
+| Dative      | þissum    | þissum   | þisse, þisre | þissum |
+| Instrumental| þȳs       | þȳs      | *īes   | *īos     |
+
+
+(Personal) Pronouns
+- Like in almost all languages, the personal pronouns in Old English preserved a complete system of inflections (for gender, person, and case) and had a dual case, i.e. a set of forms for two people or two things.
+
+|              |              |            | Nominative | Accusative | Dative    | Genitive |
+|--------------|------------|------------|------------|-----------|----------|----------|
+| **1st**      | Singular   |            | iċ         | mec/mē    | mē       | mīn      |
+|              | Dual       |            | wit        | uncit     | unc      | uncer    |
+|              | Plural     |            | wē         | ūsic      | ūs       | ūser/ūre |
+| **2nd**      | Singular   |            | þū         | þec/þē    | þē        | þīn      |
+|              | Dual       |            | ġit        | incit     | inc      | incer    |
+|              | Plural     |            | ġē         | ēowic     | ēow      | ēower    |
+| **3rd**      | Singular   | Masculine  | hē         | hine       | him      | his      |
+|              |            | Neuter     | hit        | hit       | him      | his      |
+|              |            | Feminine   | hēo        | hīe       | hiere    | hiere    |
+|              | Plural     |            | hīe        | hīe       | heom     | heora    |
+
+## Verbs
+- Old English possessed seven distinct conjugations
+- Old English verb types:
+  - *strong verbs* (irregular verbs) which indicate change of tense by a modification of their root vowel (*sing*, *sang*, *sung*)
+  - *weak verbs* (regular verbs) which are inflected by adding a dental plosive (*walk*, *walked*, *walked*)
+
+Verbs (Conjugation classes of strong verbs)
+
+| Class | Inf.     | 1st pret. | 2nd pret. | P.p.    |
+|-------|----------|-----------|-----------|---------|
+| I     | ī        | ā         | i         | i       |
+| II    | ēo or ū  | ēa        | u         | o       |
+| IIIa  | e        | æ         | u         | o       |
+| IIIb  | eo       | ea        | u         | o       |
+| IIIc  | e        | ea        | u         | o       |
+| IIId  | ie       | ea        | u         | o       |
+| IIIe  | i        | a         | u         | u       |
+| IV    | e        | æ         | ǣ         | o       |
+| V     | e        | æ         | ǣ         | e       |
+| VI    | a        | ō         | ō         | a       |
+| VIIa  | Various  | ēo        | ēo        | Same as inf. |
+| VIIb  | ā        | ē         | ē         | ā       |
+
+
+| Conjugation (strong, class I) | Pronoun | singan (to sing) |
+|-------------------------------|---------|------------------|
+| Infinitives                   |         | singan           |
+|                               |         | tō singenne      |
+|                               |         |                  |
+| Present participle            |         | singende         |
+|                               |         |                  |
+| Present indicative            |         |                  |
+|                               | iċ      | singe            |
+|                               | þū      | singst           |
+|                               | hē/hit/hēo | singþ         |
+|                               | wē/ġē/hīe | singaþ         |
+|                               |         |                  |
+| Imperative                    | Singular| sing             |
+|                               | Plural  | singaþ          |
+|                               |         |                  |
+| Present subjunctive           |         |                  |
+|                               | iċ/þū/hē/hit/hēo | singe |
+|                               | wē/ġē/hīe | singen           |
+|                               |         |                  |
+| Past indicative               |         |                  |
+|                               | iċ      | sang             |
+|                               | þū      | sunge            |
+|                               | hē/hit/hēo | sang          |
+|                               | wē/ġē/hīe | sungon         |
+|                               |         |                  |
+| Past subjunctive              |         |                  |
+|                               | iċ/þū/hē/hit/hēo | sunge   |
+|                               | wē/ġē/hīe | sungen         |
+|                               |         |                  |
+| Past participle               |         | (ġe)sungen       |
+
+
+Morphology
+
+- Old English made extensive use affixation and compounding to yield a variety of derivatives and to create new words.
+
+| PoS       | Word        | Meaning                |
+|-----------|-------------|------------------------|
+| noun      | mod         | heart, mind, spirit, courage |
+| adjective | mod-ig      | spirited, bold, arrogant |
+| adjective | modig-li    | magnanimous            |
+| adverb    | modig-lice  | boldly, proudly        |
+| noun      | modig-nes   | magnanimity, pride     |
+
+| Meaning   | Compound    | Element 1 + Element 2 |
+|-----------|-------------|-----------------------|
+| lamp      | leohtfæt    | leoht (light) + foet (vessel)|
+| dawn (day-red) | doegred | doeg + red           |
+| earring   | earhring    | ear + hring           |
+
+## Old English: Exercises
+
+```{latex}
+\begin{exe}
+\ex \gll Sēo cwēn lufode þone gōdan cnapan.\\
+The queen loved the good servant.\\
+'The queen loved the good servant'
+\ex \gll Se fisc swam under þæt scip and ofer þone sciellfisc.\\
+The fish swam under the ship and over the shellfish.\\
+‘The fish swam under the ship and over the shellfish.’
+\ex \gll Þæt se æðela cyning nolde Crīste wiþsacan\\
+That the noble king would not Christ forgive\\
+‘that the noble king would not forsake Christ’
+\ex \gll Þā tugon þā hǣþnan þone hālgan tō slege\\
+There took the heathens the holy one to slay\\
+‘Then the heathens took the holy one for slaying’
+\ex \gll and mid ānum swenge slōgon him of þæt hēafod\\
+And with one swing slew him off the head\\
+‘and with a single blow struck the head from him’
+\end{exe}
+
+\begin{exe}
+\ex \gll Þū ūre fæder, þe eart on heofonum, sīe þīn nama gehālgod. Cume þīn rīce. Sīe þīn wylla on eorðan swā swā on heofonum. Syle ūs tōdæg ūrne dæghwāmlican hlāf. And forgief ūs ūre gyltas swā swā wē forgiefað þǣm þe wið ūs āgyltað. And ne gelǣd þū ūs on costnunge, ac ālȳs ūs of yfele.\\
+You our father, you are in heaven, be your name hallowed. Come your realm. Be your will on earth so so in heaven. Provide us today our daily bread. And forgive us our guilt so so you forgive.them that with.us be.guilty. And not lead you not us on temptation. and save us from evil\\
+'Our Father in heaven, hallowed be your name, your kingdom come, your will be done, on earth as in heaven. Give us today our daily bread. Forgive us our sins as we forgive those who sin against us. Save us from the time of trial and deliver us from evil.'
+\end{exe}
+```
+
+
+
+
+
+## Old English and Old Norse
+
+- From the 8th to the 10th century, the Vikings invaded England to plunder and settle.
+- Beginning their invasion in 793 in Lindisfarne, they had conquered almost all of Britain by 878 when Alfred the Great won in a last attempt to withstand the invasion in Edington.
+- They destroyed monasteries (written documents) and killed or enslaved the native population.
+- Peace treaty between Vikings and Alfred: division of England into the Danelaw (Viking rule) and Wessex (only remaining Anglo-Saxon kingdom).
+- Had Alfred not won, Britain would be Scandinavian today.
+- Alfred united the remaining Anglo-Saxons and revitalized English (education, poetry, and official documents in Old English)
+
