@@ -1,9 +1,88 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "History of English"
+author: "Martin Schweinberger"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Course information
+
+## Course description
+
+This course addresses how and why languages change and introduces students to the history of the English language. During the sessions, we will discuss different periods of English, their linguistic features as well as the cultural forces that characterize and have shaped them. In addition, this course will familiarize students with basic concepts of historical linguistics, e.g. family trees and reconstruction, and will elaborate on how language is analyzed from a diachronic perspective using hands-on corpus exercises to investigate selected features (diachronic changes of nominal suffixes and the alternation in the 3rd person singular morpheme). Finally, students will learn about different types of changes, i.e. how changes affect distinct levels of the linguistic system (sound change, semantic change, grammaticalization), and their social embedding (historical sociolinguistics).
+
+## Formal requirements
+To pass this course, you have to...  
+  + be admitted in this(!) course   
+  + sign in to „Ang072 History of English Language and
+Culture“ on Moodle (password: history);  
+  + Do one in-class activity/presentation/task;  
+  + sign up for the term paper/final exam;  
+  + pass the final exam or hand in your term paper 4 weeks after the final week of teaching.
+
+If you fail to meet any of these requirements, you
+cannot pass this course!
+
+## In-Class Activity/Presentation/Task
+
+As an in-class activities or tasks you may choose between...  
+  + be moderator for a text  
+  + design and do exercises in class (e.g. quiz, work sheet,
+group work)  
+  + short presentation on additional material  
+  + create a presentation on the text for the session (will be uploaded to Moodle but will not be shown in class)  
+  + prepare questions about the text for the session that other students will have to answer online before the session
+
+## Session Structure
+Each session will follow this (approximate) template:  
+  + 5 min recap  
+  + 30-45 min chapter moderation  
+  + 15-20 min exercises  
+  + 15-30 min lecture  
+  + 10-15 min presentation
+
+## Recommendations
+Media  
+
+  + The History of English Podcast (highly recommended): http://historyofenglishpodcast.com/  
+  + Documentaries and documentary series (available on www.youtube.com):  
+    + The History of the English Language,  
+    + A History of Britain,  
+    + The Adventure of English,  
+    + The Story of English
+
+Literature  
+
+  + Course books  
+    + Knowles, Gerry. 1997. A Cultural History of the English Language. Arnold: London.  
+    + Barber, Charles, Beal, Joan C. & Shaw, Philip A. 2009. The English language: A historical introduction. Cambridge: Cambridge University Press.  
+    
+  + Other literature
+    
+    + Baugh and Cable (1993), Brinton and Arnovick (2006), van Gelderen (2006), Hogg and Denison (2006), (Deutscher 2010), and Crystal (2006).
+
+## Course plan (approximate)
+| Session | Topic | 
+|-----|-------------------------|
+| 1  | Formalities, overview, and teaser |
+| 2  |  Introduction |
+| 3  |  The Origins of English |
+| 4  |  English and Danish |
+| 5  |  English and French |
+| 6  |  English and Latin |
+| 7  |  The language of England |
+| 8  |  The language of the elites |
+| 9  |  English as a world language |
+| 10  |  English today and tomorrow |
+| 11  |  Types of language change |
+| 12  |  Review and outlook  |
+
+## Primer: what’s ahead
+
+Have a look at the following word pairs and think about why
+they might be different:
+
+1. house : houses
+2. mouse : mice
+
 
