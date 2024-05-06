@@ -8,3 +8,13 @@ course-plan-approximate
 introduction
 a-caucus-race-and-a-long-tale
 primer-whats-ahead
+origins-of-english
+history-of-english
+old-english
+middle-english
+early-and-late-modern-english
+present-day-english
+the-future-of-english
+how-structure-arises
+language-variation-and-change
+emprical-approaches-to-diachronic-linguistics

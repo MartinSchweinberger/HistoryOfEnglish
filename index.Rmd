@@ -62,20 +62,21 @@ Literature
     + Baugh and Cable (1993), Brinton and Arnovick (2006), van Gelderen (2006), Hogg and Denison (2006), (Deutscher 2010), and Crystal (2006).
 
 ## Course plan (approximate)
+
 | Session | Topic | 
 |-----|-------------------------|
 | 1  | Formalities, overview, and teaser |
 | 2  |  Introduction |
-| 3  |  The Origins of English |
-| 4  |  English and Danish |
-| 5  |  English and French |
-| 6  |  English and Latin |
-| 7  |  The language of England |
-| 8  |  The language of the elites |
-| 9  |  English as a world language |
-| 10  |  English today and tomorrow |
-| 11  |  Types of language change |
-| 12  |  Review and outlook  |
+| 3  |  Origins of English |
+| 4  |  History of English |
+| 5  |  Old English |
+| 6  |  Middle English |
+| 7  |  Early and Late Modern English |
+| 8  |  Present Day English |
+| 9  |  Future of English |
+| 10  |  How Structure Arises |
+| 11  |  Language Variation and Change |
+| 12  |  Empirical approaches in Diachronic Linguistics  |
 
 ## Primer: what’s ahead
 
